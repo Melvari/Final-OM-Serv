@@ -142,6 +142,25 @@ exports.Formats = [
 	// Doubles
 	///////////////////////////////////////////////////////////////////
 
+	{
+		name: "[Gen 4] Doubles",
+		section: "Doubles",
+
+                mod: 'gen4',
+		gameType: 'doubles',
+		ruleset: ['Pokemon', 'Standard'],
+		banlist: ['Dark Void', 'Soul Dew', 'Uber']
+	},
+	{
+		name: "[Gen 3] Doubles",
+		section: "Doubles",
+
+                mod: 'gen3',
+		gameType: 'doubles',
+		ruleset: ['Pokemon', 'Standard'],
+		banlist: ['Uber', 'Soul Dew']
+	},
+
 	// Other Metagames
 	///////////////////////////////////////////////////////////////////
 
