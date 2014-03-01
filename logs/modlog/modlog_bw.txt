@@ -1,0 +1,6 @@
+[2014-02-22T21:47:51.803Z] (bw) Ashiemore was appointed Room Owner by Keldeo Wifi.
+[2014-02-22T21:48:08.675Z] (bw) Keldeo Wifi was appointed to Room Voice by Ashiemore.
+[2014-02-22T21:48:15.445Z] (bw) (Keldeo Wifi was appointed to Room a regular user by Ashiemore.)
+[2014-02-22T21:48:59.311Z] (bw) Ashiemore was locked from talking by Keldeo Wifi.
+[2014-02-22T21:49:07.095Z] (bw) Ashiemore was unlocked by Keldeo Wifi.
+[2014-02-23T00:52:55.876Z] (bw) CaterpieFlow was appointed Room Owner by CaterpieFlow.

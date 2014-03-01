@@ -1,0 +1,6 @@
+[2014-02-23T00:50:37.403Z] (gsc) amaniania was appointed Room Owner by SomeKiwi.
+[2014-02-23T00:52:12.734Z] (gsc) MoxieInfinite was muted by amaniania for 7 minutes.
+[2014-02-23T00:52:21.457Z] (gsc) MoxieInfinite was unmuted by amaniania.
+[2014-02-23T00:53:06.324Z] (gsc) amaniania declared Oh hey, look I can do this
+[2014-02-23T00:54:00.105Z] (gsc) amaniania set modchat to #
+[2014-02-23T00:54:32.927Z] (gsc) amaniania set modchat to false

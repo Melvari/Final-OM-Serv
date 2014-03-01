@@ -1,0 +1,2 @@
+[2014-02-23T16:43:48.168Z] (battle-gen3customgame-30) Keldeo Wifi set modchat to ~
+[2014-02-23T16:44:07.883Z] (battle-gen3customgame-30) Keldeo Wifi set modchat to false

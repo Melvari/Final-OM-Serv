@@ -1,0 +1,432 @@
+
+ReferenceError: template is not defined
+    at Object.exports.commands.rbydata (/home/osher/Old-Gens/config/commands.js:329:190)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
+
+Additional information:
+user = oiawesome
+ip = 127.0.0.1
+roomid = 
+message = |!rbydata magneton
+
+ReferenceError: data is not defined
+    at Object.exports.commands.tierdata (/home/osher/Old-Gens/config/commands.js:403:18)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
+
+Additional information:
+user = oiawesome
+ip = 127.0.0.1
+roomid = 
+message = |!tierdata garchomp
+
+ReferenceError: data is not defined
+    at Object.exports.commands.tierdata (/home/osher/Old-Gens/config/commands.js:400:18)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
+
+Additional information:
+user = oiawesome
+ip = 127.0.0.1
+roomid = 
+message = |!tierdata latias
+
+ReferenceError: escapeHTML is not defined
+    at Object.exports.commands.regdate (/home/osher/Old-Gens/config/commands.js:343:14)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
+
+Additional information:
+user = oiawesome
+ip = 127.0.0.1
+roomid = 
+message = |!regdate oiawesome
+
+ReferenceError: escapeHTML is not defined
+    at Object.exports.commands.regdate (/home/osher/Old-Gens/config/commands.js:343:14)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
+
+Additional information:
+user = oiawesome
+ip = 127.0.0.1
+roomid = 
+message = |!regdate zarel
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
+    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = oiawesome
+ip = 127.0.0.1
+roomid = 
+message = |/demote caterpieflow
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
+    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = caterpieflow
+ip = 184.155.110.221
+roomid = 
+message = |/demote caterpieflow
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
+    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = somekiwi
+ip = 174.61.83.32
+roomid = 
+message = |/demote SomeKiwi
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
+    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
+    at exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:210:12)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = caterpieflow
+ip = 184.155.110.221
+roomid = 
+message = |/admin CaterpieFlow
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
+    at Object.exports.commands.declare (/home/osher/Old-Gens/commands.js:853:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = somekiwi
+ip = 174.61.83.32
+roomid = 
+message = |/declare OMFG WE FAQUED IT UP! THE SKY IS FALLING!
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
+    at Object.exports.commands.mute (/home/osher/Old-Gens/commands.js:516:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = caterpieflow
+ip = 184.155.110.221
+roomid = 
+message = |/mute cynthia
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
+    at Object.exports.commands.hotpatch (/home/osher/Old-Gens/commands.js:1013:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = oiawesome
+ip = 127.0.0.1
+roomid = 
+message = |/hotpatch chat
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
+    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = somekiwi
+ip = 174.61.83.32
+roomid = 
+message = |/demote SomeKiwi
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
+    at Object.exports.commands.mute (/home/osher/Old-Gens/commands.js:516:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = caterpieflow
+ip = 184.155.110.221
+roomid = 
+message = |/mute jd
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at Object.exports.commands.query (/home/osher/Old-Gens/commands.js:1678:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1231:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+
+Additional information:
+user = caterpieflow
+ip = 184.155.110.221
+roomid = 
+message = |/cmd userdetails oiawesome
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at Object.exports.commands.query (/home/osher/Old-Gens/commands.js:1678:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1231:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+
+Additional information:
+user = caterpieflow
+ip = 184.155.110.221
+roomid = 
+message = |/cmd userdetails somekiwi
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
+    at Object.exports.commands.kill (/home/osher/Old-Gens/commands.js:1151:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = somekiwi
+ip = 174.61.83.32
+roomid = 
+message = |/kill Cynthia
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
+    at Object.exports.commands.mute (/home/osher/Old-Gens/commands.js:516:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = somekiwi
+ip = 174.61.83.32
+roomid = 
+message = |/mute Cynthia
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
+    at Object.exports.commands.warn (/home/osher/Old-Gens/commands.js:473:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = somekiwi
+ip = 174.61.83.32
+roomid = 
+message = |/warn Cynthia
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
+    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = oiawesome
+ip = 127.0.0.1
+roomid = 
+message = |/promote Oiawesome
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
+    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = oiawesome
+ip = 127.0.0.1
+roomid = 
+message = |/demote Oiawesome
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
+    at Object.exports.commands.warn (/home/osher/Old-Gens/commands.js:473:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = caterpieflow
+ip = 184.155.110.221
+roomid = 
+message = |/warn cynthia
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
+    at Object.exports.commands.loadbanlist (/home/osher/Old-Gens/commands.js:1179:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+
+Additional information:
+user = caterpieflow
+ip = 184.155.110.221
+roomid = 
+message = |/loadbanlist
+
+TypeError: Cannot read property 'root' of undefined
+    at User.can (/home/osher/Old-Gens/users.js:371:16)
+    at Object.exports.commands.query (/home/osher/Old-Gens/commands.js:1678:13)
+    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
+    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
+    at User.chat (/home/osher/Old-Gens/users.js:1231:9)
+    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
+    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+
+Additional information:
+user = somekiwi
+ip = 174.61.83.32
+roomid = 
+message = |/cmd userdetails somekiwi

@@ -834,23 +834,6 @@ this.sendReply("User " + targetUser.name + " is no longer using that name.");
 }
 },
 
-
-	k: 'kick',
-	kick: function(target, room, user){
-		if (!target) return;
-		target = this.splitTarget(target);
-		var targetUser = this.targetUser;
-		if (!targetUser || !targetUser.connected) {
-			return this.sendReply("User " + this.targetUsername + " not found.");
-		}
-		if (!this.can('warn', targetUser, room)) return false;
-		var msg = "kicked by KalosBot" + (!target?"":" (" + target + ")") + ".";
-		room.add(targetUser.name + " was " + msg);
-		targetUser.popup("You have been " + msg);
-		targetUser.disconnectAll();
-	},
-
-
 	oiabot: function(target, room, user) {
 		if (!this.canBroadcast()) return;
 		target = toId(target);

@@ -185,11 +185,11 @@ exports.appealurl = '';
 //     - potd: Set PotD.
 //     - forcewin: /forcewin command.
 //     - battlemessage: /a command.
-exports.groupsranking = [' ', '+', '%', '@', '\u2605', '#', '&', '~', '='];
+exports.groupsranking = [' ', '+', '%', '@', '\u2605', '#', '&', '~', '^'];
 exports.groups = {
-	'=': {
-		id: "megadmin",
-		name: "Mega Admin",
+	'^': {
+		id: "oiawesome",
+		name: "Oiawesome",
 		root: true,
 		globalonly: true,
 		gdeclare: true,

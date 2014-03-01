@@ -2311,7 +2311,7 @@ exports.BattleFormatsData = {
 			{"generation":3,"level":50,"moves":["refresh","dragonclaw","dragondance","aerialace"]},
 			{"generation":4,"level":50,"gender":"M","nature":"Naughty","moves":["hydropump","stoneedge","fireblast","dragonclaw"]}
 		],
-		tier: "OU"
+		tier: "Uber"
 	},
 	beldum: {
 		viableMoves: {"ironhead":1,"zenheadbutt":1,"headbutt":1,"irondefense":1},
@@ -2359,7 +2359,7 @@ exports.BattleFormatsData = {
 			{"generation":3,"level":70,"gender":"F","abilities":["levitate"],"moves":["mistball","psychic","recover","charm"]},
 			{"generation":4,"level":40,"gender":"F","abilities":["levitate"],"moves":["watersport","refresh","mistball","zenheadbutt"]}
 		],
-		tier: "OU"
+		tier: "Uber"
 	},
 	latios: {
 		viableMoves: {"dracometeor":1,"dragonpulse":1,"surf":1,"hiddenpowerfire":1,"psyshock":1,"roost":1},

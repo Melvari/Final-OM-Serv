@@ -1,5 +1,5 @@
 // The server port - the port to run Pokemon Showdown under
-exports.port = 8888;
+exports.port = 8000;
 
 // proxyip - proxy IPs with trusted X-Forwarded-For headers
 //   This can be either false (meaning not to trust any proxies) or an array
@@ -185,16 +185,8 @@ exports.appealurl = '';
 //     - potd: Set PotD.
 //     - forcewin: /forcewin command.
 //     - battlemessage: /a command.
-exports.groupsranking = [' ', '+', '%', '@', '\u2605', '#', '&', '~', '='];
+exports.groupsranking = [' ', '+', '%', '@', '\u2605', '#', '&', '~'];
 exports.groups = {
-	'=': {
-		id: "megadmin",
-		name: "Mega Admin",
-		root: true,
-		globalonly: true,
-		gdeclare: true,
-		rank: 8
-	},
 	'~': {
 		id: "admin",
 		name: "Administrator",

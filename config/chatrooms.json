@@ -1,5 +1,4 @@
 [
-{"title":"Lobby","autojoin":true},
-{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true},
-{"title":"spam"}
+{"title":"Lobby","autojoin":true,"isOfficial":true,"desc":"come to lobby and do stuff"},
+{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true,"auth":{}}
 ]

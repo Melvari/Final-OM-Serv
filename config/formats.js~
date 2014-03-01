@@ -13,6 +13,14 @@ exports.Formats = [
 
 		mod: 'gen4',
 		ruleset: ['Pokemon', 'Standard'],
+		banlist: ['Uber', 'Latias', 'Salamence'],
+	},
+	{
+		name: "[Gen 4] OU Suspect",
+		section: "DPPt",
+
+		mod: 'gen4',
+		ruleset: ['Pokemon', 'Standard'],
 		banlist: ['Uber'],
 	},
 	{
@@ -22,6 +30,31 @@ exports.Formats = [
 		mod: 'gen4',
 		ruleset: ['Pokemon', 'Standard'],
 		banlist: ['Uber', 'OU', 'BL']
+	},
+	{
+		name: "[Gen 4] NU",
+		section: "DPPt",
+
+		mod: 'gen4',
+		ruleset: ['Pokemon', 'Standard'],
+		banlist: ['Uber', 'OU', 'BL']
+	},
+	{
+		name: "[Gen 4] NU Suspect",
+		section: "DPPt",
+
+		mod: 'gen4',
+		ruleset: ['Pokemon', 'Standard'],
+		banlist: ['Uber', 'OU', 'BL', 'UU', 'Espeon' ,'Entei']
+	},
+	{
+		name: "[Gen 4] LC",
+		section: "DPPt",
+
+		mod: 'gen4',
+		maxLevel: 5,
+		ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
+		banlist: ['Sonicboom', 'Dragon Rage', 'Berry Juice', 'NU']
 	},
 	{
 		name: "[Gen 4] Balanced Hackmons",
@@ -49,12 +82,29 @@ exports.Formats = [
 		banlist: ['Uber'],
 	},
 	{
-		name: "[Gen 3] OU",
+		name: "[Gen 3] UU",
+		section: "ADV",
+
+		mod: 'gen3',
+		ruleset: ['Pokemon', 'Standard'],
+		banlist: ['Uber', 'OU', 'BL']
+	},
+	{
+		name: "[Gen 3] Uber",
 		section: "ADV",
 
 		mod: 'gen3',
 		ruleset: ['Pokemon', 'Standard'],
 		banlist: [],
+	},
+	{
+		name: "[Gen 3] LC",
+		section: "ADV",
+
+		mod: 'gen3',
+		maxLevel: 5,
+		ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
+		banlist: ['Sonicboom', 'Dragon Rage', 'NU']
 	},
 	{
 		name: "[Gen 3] Balanced Hackmons",
@@ -80,6 +130,22 @@ exports.Formats = [
 		mod: 'gen2',
 		ruleset: ['Pokemon', 'Standard'],
 		banlist: ['Uber', 'Mean Look + Hypnosis + Perish Song']
+	},
+	{
+		name: "[Gen 2] UU ",
+		section: "GSC",
+
+		mod: 'gen2',
+		ruleset: ['Pokemon', 'Standard'],
+		banlist: ['Uber', 'Mean Look + Hypnosis + Perish Song', 'BL', 'UU']
+	},
+	{
+		name: "[Gen 2] UU Suspect",
+		section: "GSC",
+
+		mod: 'gen2',
+		ruleset: ['Pokemon', 'Standard'],
+		banlist: ['Uber', 'Mean Look + Hypnosis + Perish Song', 'BL', 'UU', 'Venusaur', 'Smeargle']
 	},
 	{
 		name: "[Gen 2] Uber",
@@ -124,7 +190,7 @@ exports.Formats = [
 	},
 	{
 		name: "[Gen 1] Balanced Hackmons",
-		section: "Past Generations",
+		section: "RBY",
 
 		mod: 'gen1',
 		ruleset: ['Pokemon']
@@ -141,25 +207,6 @@ exports.Formats = [
 
 	// Doubles
 	///////////////////////////////////////////////////////////////////
-
-	{
-		name: "[Gen 4] Doubles",
-		section: "Doubles",
-
-                mod: 'gen4',
-		gameType: 'doubles',
-		ruleset: ['Pokemon', 'Standard'],
-		banlist: ['Dark Void', 'Soul Dew', 'Uber']
-	},
-	{
-		name: "[Gen 3] Doubles",
-		section: "Doubles",
-
-                mod: 'gen3',
-		gameType: 'doubles',
-		ruleset: ['Pokemon', 'Standard'],
-		banlist: ['Uber', 'Soul Dew']
-	},
 
 	// Other Metagames
 	///////////////////////////////////////////////////////////////////

@@ -1,0 +1,38 @@
+[2014-02-23T18:29:55.696Z] (dice) Keldeo Wifi set modchat to @
+[2014-02-23T18:30:38.288Z] (dice) SomeKiwi was appointed Room Owner by Keldeo Wifi.
+[2014-02-23T18:30:49.129Z] (dice) ashiemore was appointed Room Owner by Keldeo Wifi.
+[2014-02-23T18:30:59.982Z] (dice) Keldeo Wifi was appointed Room Owner by Keldeo Wifi.
+[2014-02-23T18:31:09.425Z] (dice) ashiemore set modchat to ~
+[2014-02-23T18:31:16.699Z] (dice) Keldeo Wifi set modchat to #
+[2014-02-23T18:31:19.784Z] (dice) ashiemore set modchat to ~
+[2014-02-23T18:31:28.538Z] (dice) ashiemore set modchat to +
+[2014-02-23T18:31:34.107Z] (dice) ashiemore set modchat to false
+[2014-02-23T18:32:05.298Z] (dice) Keldeo Wifi set modchat to ~
+[2014-02-23T18:32:25.955Z] (dice) Keldeo Wifi set modchat to autoconfirmed
+[2014-02-23T18:32:33.281Z] (dice) Keldeo Wifi set modchat to +
+[2014-02-23T18:34:34.111Z] (dice) Oiawesome was appointed Room Owner by Keldeo Wifi.
+[2014-02-23T18:34:54.384Z] (dice) Keldeo Wifi set modchat to #
+[2014-02-23T18:35:30.179Z] (dice) ashiemore declared <img src="http://1.bp.blogspot.com/-_-DpHAX2IhE/TZ6Odvp5A4I/AAAAAAAABes/rOK5vfJUA7A/s1600/lucky_dice.jpeg"/>
+[2014-02-23T18:37:52.241Z] (dice) SomeKiwi was muted by Keldeo Wifi for 7 minutes. (:D)
+[2014-02-23T18:38:04.523Z] (dice) SomeKiwi was unmuted by Keldeo Wifi.
+[2014-02-23T18:39:39.870Z] (dice) SomeKiwi set modchat to ~
+[2014-02-23T18:39:44.818Z] (dice) Keldeo Wifi globally declared (chat level) POKEMON JUST ANNOUNCED HOENN REMAKES
+[2014-02-23T18:39:48.096Z] (dice) ashiemore set modchat to false
+[2014-02-23T18:40:41.035Z] (dice) ashiemore set modchat to ~
+[2014-02-23T18:40:51.062Z] (dice) (Keldeo Wifi was demoted to Leader by Keldeo Wifi.)
+[2014-02-23T18:40:51.224Z] (dice) SomeKiwi set modchat to #
+[2014-02-23T18:41:57.276Z] (dice) ashiemore set modchat to &
+[2014-02-23T18:42:09.007Z] (dice) ashiemore set modchat to #
+[2014-02-23T18:42:46.751Z] (dice) ashiemore set modchat to @
+[2014-02-23T18:42:54.611Z] (dice) ashiemore set modchat to %
+[2014-02-23T18:42:55.111Z] (dice) ashiemore set modchat to +
+[2014-02-23T18:42:56.937Z] (dice) ashiemore set modchat to false
+[2014-02-23T18:45:39.235Z] (dice) ashiemore set modchat to autoconfirmed
+[2014-02-23T18:45:57.480Z] (dice) ashiemore set modchat to +
+[2014-02-23T18:45:57.981Z] (dice) ashiemore set modchat to %
+[2014-02-23T18:45:58.482Z] (dice) ashiemore set modchat to @
+[2014-02-23T18:45:58.982Z] (dice) ashiemore set modchat to #
+[2014-02-23T18:46:47.828Z] (dice) ashiemore set modchat to &
+[2014-02-23T18:46:48.329Z] (dice) ashiemore set modchat to ~
+[2014-02-23T18:47:34.349Z] (dice) ashiemore set modchat to +
+[2014-02-23T19:28:52.014Z] (dice) ashiemore set modchat to false
