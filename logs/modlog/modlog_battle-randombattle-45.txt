@@ -1,0 +1,2 @@
+[2014-03-02T15:39:39.907Z] (battle-randombattle-45) KELDEO~WIFI# set modchat to +
+[2014-03-02T15:40:40.228Z] (battle-randombattle-45) Ashiemore set modchat to false

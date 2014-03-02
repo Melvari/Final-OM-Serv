@@ -29,3 +29,18 @@
 [2014-02-23T22:03:07.526Z] (gen1rbymetagame) MoxieInfinite was appointed to Room Voice by SomeKiwi.
 [2014-02-23T22:03:23.878Z] (gen1rbymetagame) (MoxieInfinite was appointed to Room a regular user by SomeKiwi.)
 [2014-02-23T22:09:11.326Z] (gen1rbymetagame) MoxieInfinite was appointed to Room Moderator by Keldeo Wifi.
+[2014-03-02T15:23:01.383Z] (gen1rbymetagame) Iambirdjesus was banned from room gen1rbymetagame by Ashiemore.
+[2014-03-02T15:23:10.745Z] (gen1rbymetagame) Iambirdjesus was unbanned from room gen1rbymetagame by Ashiemore.
+[2014-03-02T15:26:59.971Z] (gen1rbymetagame) Ashiemore set modchat to #
+[2014-03-02T15:27:18.252Z] (gen1rbymetagame) Keldeo Wifi ✿ set modchat to ★
+[2014-03-02T15:27:39.351Z] (gen1rbymetagame) Ashiemore set modchat to ~
+[2014-03-02T15:27:46.106Z] (gen1rbymetagame) Ashiemore set modchat to %
+[2014-03-02T15:29:16.856Z] (gen1rbymetagame) Keldeo Wifi ✿ set modchat to false
+[2014-03-02T15:29:47.090Z] (gen1rbymetagame) Ashiemore set modchat to ★
+[2014-03-02T15:29:54.517Z] (gen1rbymetagame) Ashiemore set modchat to false
+[2014-03-02T15:31:09.458Z] (gen1rbymetagame) Ashiemore set modchat to &
+[2014-03-02T15:31:19.205Z] (gen1rbymetagame) Ashiemore set modchat to ~
+[2014-03-02T15:31:29.474Z] (gen1rbymetagame) Ashiemore set modchat to @
+[2014-03-02T15:33:24.034Z] (gen1rbymetagame) Ashiemore set modchat to false
+[2014-03-02T15:34:55.379Z] (gen1rbymetagame) Ashiemore set modchat to %
+[2014-03-02T15:48:04.818Z] (gen1rbymetagame) Ashiemore set modchat to #

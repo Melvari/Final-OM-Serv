@@ -284,3 +284,26 @@
 [2014-02-23T22:36:02.491Z] (lobby) (OiawesomeAFK was forcibly renamed to Oiawesome by OiawesomeAFK.)
 [2014-03-01T06:44:24.615Z] (lobby) (Oiawesome was forcibly renamed to OiawesomeAFK by Oiawesome.)
 [2014-03-01T16:42:19.723Z] (lobby) (OiawesomeAFK was forcibly renamed to Oiawesome by OiawesomeAFK.)
+[2014-03-01T17:25:14.616Z] (lobby) (Oiawesome was demoted to AOp by Oiawesome.)
+[2014-03-01T17:26:37.325Z] (lobby) Oiawesome was promoted to Mega AOp by Oiawesome.
+[2014-03-01T17:26:53.595Z] (lobby) MoxieInfinite was promoted to VOp by Oiawesome.
+[2014-03-01T17:29:07.462Z] (lobby) (Oiawesome was demoted to AOp by Oiawesome.)
+[2014-03-01T17:29:15.370Z] (lobby) Oiawesome was given Mega AOp by Oiawesome.
+[2014-03-01T19:19:22.747Z] (lobby) (Oiawesome was forcibly renamed to OiAFKsome by Oiawesome.)
+[2014-03-01T19:27:08.797Z] (lobby) (OiAFKsome was forcibly renamed to Oiawesome by OiAFKsome.)
+[2014-03-01T19:59:34.948Z] (lobby) (Oiawesome was forcibly renamed to OiawesomeAFK by Oiawesome.)
+[2014-03-01T22:45:37.430Z] (lobby) (OiawesomeAFK was forcibly renamed to Oiawesome by OiawesomeAFK.)
+[2014-03-02T01:25:42.057Z] (lobby) Oiawesome was given Mega AOp by Oiawesome.
+[2014-03-02T02:27:53.105Z] (lobby) (Oiawesome was forcibly renamed to OiawesomeAFK by Oiawesome.)
+[2014-03-02T02:30:21.553Z] (lobby) (OiawesomeAFK was forcibly renamed to Oiawesome by OiawesomeAFK.)
+[2014-03-02T14:57:59.353Z] (lobby) MoxieInfinite was muted by Keldeo Wifi ✿ for 7 minutes.
+[2014-03-02T14:58:20.502Z] (lobby) MoxieInfinite was unmuted by Keldeo Wifi ✿.
+[2014-03-02T16:09:59.760Z] (lobby) (MoxieInfinite was demoted to a regular user by SomeKiwi.)
+[2014-03-02T16:13:59.004Z] (lobby) MoxieInfinite was given VOp by Oiawesome.
+[2014-03-02T16:15:20.849Z] (lobby) (Oiawesome was demoted to AOp by Oiawesome.)
+[2014-03-02T16:16:25.700Z] (lobby) Oiawesome was given Mega AOp by Oiawesome.
+[2014-03-02T16:47:47.509Z] (lobby) (SomeKiwi was demoted to VOp by Oiawesome.)
+[2014-03-02T16:47:50.375Z] (lobby) (SomeKiwi was demoted to a regular user by Oiawesome.)
+[2014-03-02T16:47:59.447Z] (lobby) (Ashiemore was demoted to a regular user by Oiawesome.)
+[2014-03-02T16:48:06.550Z] (lobby) (KELDEO~WIFI# was demoted to VOp by Oiawesome.)
+[2014-03-02T16:48:07.839Z] (lobby) (KELDEO~WIFI# was demoted to a regular user by Oiawesome.)

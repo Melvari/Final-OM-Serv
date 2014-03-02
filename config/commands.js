@@ -662,12 +662,12 @@ var commands = exports.commands = {
 
 	groups: function(target, room, user) {
 		if (!this.canBroadcast()) return;
-		this.sendReplyBox('+ <b>Voice</b> - They can use ! commands like !groups, and talk during moderated chat<br />' +
-			'% <b>Driver</b> - The above, and they can also mute and lock users and check for alts<br />' +
-			'@ <b>Moderator</b> - The above, and they can ban users<br />' +
-			'&amp; <b>Leader</b> - The above, and they can promote moderators and force ties<br />' +
-			'~ <b>Administrator</b> - They can do anything, like change what this message says<br />' +
-			'# <b>Room Owner</b> - They are administrators of the room and can almost totally control it');
+		this.sendReplyBox('+ <b>VOP- Voice OP- Voice Operator</b> - They can use ! commands like !groups, and talk during moderated chat<br />' +
+			'% <b>HOP- Half OP- Half Operator</b> - The above, and they can also mute and lock users and check for alts<br />' +
+			'@ <b>OP- Operator</b> - The above, and they can ban users<br />' +
+			'&amp; <b>AOp- Admin OP- Admin Operator</b> - They can do anything, like change what this message says<br />' +
+                        '~ <b>Mega AOp- Mega Admin OP- Mega Admin Operator</b> - Reserved for the top of the top, the server owners and true admins<br />' +
+			'# <b>ROp- Room OP- Room Operator</b> - They are administrators of the room and can almost totally control it');
 	},
 
 	opensource: function(target, room, user) {

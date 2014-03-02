@@ -1,4 +1,16 @@
 [
 {"title":"Lobby","autojoin":true,"isOfficial":true,"desc":"come to lobby and do stuff"},
-{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true,"auth":{}}
+{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true,"auth":{}},
+{"title":"Gen 3 ADV Metagame","auth":{"somekiwi":"#","keldeowifi":"#"},"desc":"This room is for everything Gen 3 related. Prepare the Ttar's and Salamences!","isOfficial":true},
+{"title":"Gen 2 GSC Metagame","auth":{"amaniania":"#","keldeowifi":"#","ashiemore":"#","moxieinfinite":"@"},"desc":"Welcome to gen 2!, bring your fatass(snorlax)","isOfficial":true},
+{"title":"Gen 4 DPP Metagame","auth":{"keldeowifi":"#","caterpieflow":"#"},"desc":"gen 4, the day azelf was good","isOfficial":true},
+{"title":"Gen 1 RBY Metagame","desc":"don't forget your tauros","auth":{"keldeowifi":"#","ashiemore":"#","caterpieflow":"@","somekiwi":"@","moxieinfinite":"@"},"isOfficial":true},
+{"title":"Gen 5 BW Metagame","auth":{"ashiemore":"#","caterpieflow":"#","jadefire2":"%"},"desc":"Welcome to Gen 5, the home of sun, rain, and sand","isOfficial":true},
+{"title":"Tournaments ","auth":{"moxieinfinite":"#","keldeowifi":"#"},"desc":"come here to play in tournaments"},
+{"title":"glitches","auth":{"keldeowifi":"#"},"desc":"talk about all the glitches of gen 1"},
+{"title":"Video Games","auth":{"cynthia":"#","psychicsabrina":"#","domthexmasdonkey":"+"},"desc":"Discuss Nintendo, Sony, Microsoft, PC, or anything in-between here!"},
+{"title":"Battle Spot","auth":{"rhiscquinn":"#","keldeowifi":"#"},"desc":"Look for WiFi Battles here! "},
+{"title":"XY","auth":{"rhiscquinn":"#","xxnekoxboyxx":"+","keldeowifi":"#"},"desc":"Talk about the X/Y Metagame here, and other 6th Gen Stuff!"},
+{"title":"other metas","auth":{"keldeowifi":"#","ashiemore":"+"},"desc":"discusss little cup, 1v1, hackmons, and suspects tests here :D"},
+{"title":"Dice","desc":"!dice 1-9 if you get one I kill you","auth":{"somekiwi":"#","ashiemore":"#","keldeowifi":"#","oiawesome":"#"}}
 ]

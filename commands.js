@@ -769,7 +769,7 @@ var commands = exports.commands = {
 				targetUser.popup('You were demoted to ' + groupName + ' by ' + user.name + '.');
 			}
 		} else {
-			this.addModCommand(''+name+' was promoted to ' + groupName + ' by '+user.name+'.');
+			this.addModCommand(''+name+' was given '+ groupName + ' by '+user.name+'.');
 		}
 		if (targetUser) {
 			targetUser.updateIdentity();

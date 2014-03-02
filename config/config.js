@@ -185,42 +185,27 @@ exports.appealurl = '';
 //     - potd: Set PotD.
 //     - forcewin: /forcewin command.
 //     - battlemessage: /a command.
-exports.groupsranking = [' ', '+', '%', '@', '\u2605', '#', '&', '~', '='];
+exports.groupsranking = [' ', '+', '%', '@', '\u2605', '#', '&', '~'];
 exports.groups = {
-	'=': {
-		id: "megadmin",
-		name: "Mega Admin",
-		root: true,
-		globalonly: true,
-		gdeclare: true,
-		rank: 8
-	},
 	'~': {
-		id: "admin",
-		name: "Administrator",
+		id: "megaop",
+		name: "Mega AOp",
 		root: true,
 		globalonly: true,
 		gdeclare: true,
 		rank: 7
 	},
 	'&': {
-		id: "leader",
-		name: "Leader",
-		inherit: '@',
-		jurisdiction: '@u',
-		promote: 'u',
-		forcewin: true,
-		declare: true,
-		modchatall: true,
-		rangeban: true,
-		potd: true,
-		disableladder: true,
+		id: "aop",
+		name: "AOp",
+		root: true,
 		globalonly: true,
+		gdeclare: true,
 		rank: 6
 	},
 	'#': {
-		id: "owner",
-		name: "Room Owner",
+		id: "rop",
+		name: "ROp",
 		inherit: '@',
 		jurisdiction: 'u',
 		roommod: true,
@@ -231,8 +216,8 @@ exports.groups = {
 		rank: 5
 	},
 	'\u2605': {
-		id: "player",
-		name: "Player",
+		id: "pop",
+		name: "POp",
 		inherit: '+',
 		roomvoice: true,
 		modchat: true,
@@ -241,21 +226,29 @@ exports.groups = {
 		rank: 4
 	},
 	'@': {
-		id: "mod",
-		name: "Moderator",
+		id: "op",
+		name: "Op",
 		inherit: '%',
 		jurisdiction: 'u',
+		promote: 'u',
 		ban: true,
 		modchat: true,
 		roomvoice: true,
 		forcerename: true,
+		forcewin: true,
+		declare: true,
+		modchatall: true,
+		rangeban: true,
+		potd: true,
+		disableladder: true,
+		globalonly: true,
 		ip: true,
 		alts: '@u',
 		rank: 3
 	},
 	'%': {
-		id: "driver",
-		name: "Driver",
+		id: "hop",
+		name: "HOp",
 		inherit: '+',
 		jurisdiction: 'u',
 		announce: true,
@@ -272,8 +265,8 @@ exports.groups = {
 		rank: 2
 	},
 	'+': {
-		id: "voice",
-		name: "Voice",
+		id: "vop",
+		name: "VOp",
 		inherit: ' ',
 		broadcast: true,
 		joinbattle: true,
