@@ -27,14 +27,14 @@ exports.Formats = [
 		section: "XY Singles",
 
 		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
-		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite']
+		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite', 'Genesect']
 	},
 	{
-		name: "OU (suspect test)",
+		name: "Unreleased OU",
 		section: "XY Singles",
 
-		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
-		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite', 'Genesect', 'Deoxys-Speed']
+		ruleset: ['Pokemon', 'Standard Unreleased', 'Team Preview'],
+		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite', 'Genesect']
 	},
 	{
 		name: "Ubers",
