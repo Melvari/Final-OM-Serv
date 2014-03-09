@@ -13,6 +13,14 @@ exports.Formats = [
 		ruleset: ['Pokemon', 'Standard Unreleased', 'Team Preview'],
 		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite']
 	},
+	/*{
+		name: "Scalemons",
+		section: "Other Metagames",
+
+                mod: 'scalemons',
+		ruleset: ['Pokemon', 'Standard Unreleased', 'Team Preview'],
+		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite']
+	},*/
 	{
 		name: "(Almost) Any Ability XY",
 		section: "Other Metagames",
@@ -456,7 +464,7 @@ exports.Formats = [
 		section: "Pet Mods",
 
                 mod: 'kalos2',
-		ruleset: ['K2 Pokemon', 'Standard', 'Team Preview'],
+		ruleset: ['K2 Pokemon', 'Standard Unreleased', 'Team Preview'],
 		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite', 'Genesect']
 	},
 	{
@@ -464,7 +472,7 @@ exports.Formats = [
 		section: "Pet Mods",
 
                 mod: 'kalos2',
-		ruleset: ['K2 Pokemon', 'OHKO Clause', 'HP Percentage Mod'],
+		ruleset: ['K2 Pokemon', 'OHKO Clause', 'HP Percentage Mod', 'Standard Unreleased'],
 		banlist: ['Wonder Guard', 'Shadow Tag', 'Arena Trap', 'Pure Power', 'Huge Power', 'Parental Bond']
 	},
 	{
@@ -472,7 +480,7 @@ exports.Formats = [
 		section: "Pet Mods",
 
                 mod: 'kalos2',
-		ruleset: ['K2 Pokemon', 'Standard', 'Team Preview'],
+		ruleset: ['K2 Pokemon','Team Preview'],
 		banlist: []
 	},
 	{
@@ -481,7 +489,7 @@ exports.Formats = [
 
                 mod: 'kalos2',
 		maxLevel: 5,
-		ruleset: ['K2 Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
+		ruleset: ['K2 Pokemon', 'Team Preview', 'Little Cup', 'Standard Unreleased'],
 		banlist: ['Sonicboom', 'Dragon Rage', 'Scyther', 'Sneasel', 'Yanma', 'Tangela']
 	},
 	{
