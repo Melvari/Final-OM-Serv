@@ -438,15 +438,6 @@ exports.Formats = [
 		banlist: ['Soul Dew', 'Thick Club', 'Deepseatooth', 'Deepseascale', 'Light Ball', 'Mawilite', 'Medichamite', 'Eviolite', 'Shedinja', 'Smeargle', 'Huge Power', 'Pure Power']
 	},
 	{
-		name: "Gen-NEXT OU",
-		section: "Other Metagames",
-
-		mod: 'gennext',
-		searchShow: false,
-		ruleset: ['Pokemon', 'Standard NEXT', 'Team Preview'],
-		banlist: ['Uber']
-	},
-	{
 		name: "[Gen 5] Glitchmons",
 		section: "Other Metagames",
 
@@ -455,6 +446,52 @@ exports.Formats = [
 		ruleset: ['Pokemon', 'Team Preview', 'HP Percentage Mod'],
 		banlist: ['Illegal', 'Unreleased'],
 		mimicGlitch: true
+	},
+
+	// Pet Mods
+	///////////////////////////////////////////////////////////////////
+
+	{
+		name: "Kalos 2.0 OU",
+		section: "Kalos 2",
+
+                mod: 'kalos2',
+		ruleset: ['K2 Pokemon', 'Standard', 'Team Preview'],
+		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite', 'Genesect']
+	},
+	{
+		name: "Kalos 2.0 Ubers",
+		section: "Kalos 2",
+
+                mod: 'kalos2',
+		ruleset: ['K2 Pokemon', 'OHKO Clause', 'HP Percentage Mod'],
+		banlist: ['Wonder Guard', 'Shadow Tag', 'Arena Trap', 'Pure Power', 'Huge Power', 'Parental Bond']
+	},
+	{
+		name: "Kalos 2.0 BH",
+		section: "Kalos 2",
+
+                mod: 'kalos2',
+		ruleset: ['K2 Pokemon', 'Standard', 'Team Preview'],
+		banlist: []
+	},
+	{
+		name: "Kalos 2.0 LC",
+		section: "Kalos 2",
+
+                mod: 'kalos2',
+		maxLevel: 5,
+		ruleset: ['K2 Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
+		banlist: ['Sonicboom', 'Dragon Rage', 'Scyther', 'Sneasel', 'Yanma', 'Tangela']
+	},
+	{
+		name: "[Gen 5] Gen-NEXT OU",
+		section: "Other Metagames",
+
+		mod: 'gennext',
+		searchShow: false,
+		ruleset: ['Pokemon', 'Standard NEXT', 'Team Preview'],
+		banlist: ['Uber']
 	},
 
 	// Tournament Rules
