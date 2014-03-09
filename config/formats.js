@@ -453,7 +453,7 @@ exports.Formats = [
 
 	{
 		name: "Kalos 2.0 OU",
-		section: "Kalos 2",
+		section: "Pet Mods",
 
                 mod: 'kalos2',
 		ruleset: ['K2 Pokemon', 'Standard', 'Team Preview'],
@@ -461,7 +461,7 @@ exports.Formats = [
 	},
 	{
 		name: "Kalos 2.0 Ubers",
-		section: "Kalos 2",
+		section: "Pet Mods",
 
                 mod: 'kalos2',
 		ruleset: ['K2 Pokemon', 'OHKO Clause', 'HP Percentage Mod'],
@@ -469,7 +469,7 @@ exports.Formats = [
 	},
 	{
 		name: "Kalos 2.0 BH",
-		section: "Kalos 2",
+		section: "Pet Mods",
 
                 mod: 'kalos2',
 		ruleset: ['K2 Pokemon', 'Standard', 'Team Preview'],
@@ -477,7 +477,7 @@ exports.Formats = [
 	},
 	{
 		name: "Kalos 2.0 LC",
-		section: "Kalos 2",
+		section: "Pet Mods",
 
                 mod: 'kalos2',
 		maxLevel: 5,
@@ -486,10 +486,9 @@ exports.Formats = [
 	},
 	{
 		name: "[Gen 5] Gen-NEXT OU",
-		section: "Other Metagames",
+		section: "Pet Mods",
 
 		mod: 'gennext',
-		searchShow: false,
 		ruleset: ['Pokemon', 'Standard NEXT', 'Team Preview'],
 		banlist: ['Uber']
 	},
