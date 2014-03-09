@@ -309,3 +309,4 @@
 [2014-03-02T16:48:07.839Z] (lobby) (KELDEO~WIFI# was demoted to a regular user by Oiawesome.)
 [2014-03-08T09:49:45.974Z] (lobby) (Oiawesome was forcibly renamed to Oiawesome Sleeping by Oiawesome.)
 [2014-03-08T22:19:33.783Z] (lobby) (Oiawesome Sleeping was forcibly renamed to Oiawesome by Oiawesome Sleeping.)
+[2014-03-09T01:23:00.909Z] (lobby) OiawesomeDG was given AOp by Oiawesome.
