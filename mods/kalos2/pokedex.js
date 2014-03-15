@@ -76,9 +76,8 @@ exports.BattlePokedex = {
        diancie:{num:719,species:"Diancie",types:["Rock","Fairy"],baseStats:{hp:75,atk:100,def:150,spa:100,spd:150,spe:50},abilities:{0:"Clear Body",H:"Levitate"},heightm:0.2,weightkg:0.4,color:"Pink",eggGroups:["Mineral"]},       
        hoopa:{num:720,species:"Hoopa",types:["Ghost","Psychic"],baseStats:{hp:100,atk:80,def:105,spa:150,spd:70,spe:115},abilities:{0:"Levitate",H:"Dimension Warp"},heightm:0.2,weightkg:0.4,color:"Red",eggGroups:["Amorphous"]},
        volcanion:{num:721,species:"Volcanion",types:["Fire","Water"],baseStats:{hp:115,atk:90,def:90,spa:140,spd:150,spe:85},abilities:{0:"Regenerator",1:"Flash Fire",H:"Water Absorb"},heightm:3,weightkg:215,color:"Red",eggGroups:["Water 2","Monster"]},
-	floette-eternal-flower: {
+	floetteeternalflower: {
 		inherit:true,
 		baseStats:{hp:85,atk:65,def:67,spa:130,spd:128,spe:97}
-                evos:["florges"]
 	}
 };

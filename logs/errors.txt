@@ -610,3 +610,45 @@ user = oiawesome
 ip = 127.0.0.1
 roomid = othermetaslobby
 message = othermetaslobby|/pm Oiawesome, hi
+
+TypeError: Cannot call method 'getBanlistTable' of undefined
+    at Validator.validateTeam (/home/osher/Other-Metas/team-validator.js:200:9)
+    at process.<anonymous> (/home/osher/Other-Metas/team-validator.js:176:37)
+    at process.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
+
+TypeError: Cannot call method 'getBanlistTable' of undefined
+    at Validator.validateTeam (/home/osher/Other-Metas/team-validator.js:200:9)
+    at process.<anonymous> (/home/osher/Other-Metas/team-validator.js:176:37)
+    at process.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
+
+TypeError: Cannot call method 'getBanlistTable' of undefined
+    at Validator.validateTeam (/home/osher/Other-Metas/team-validator.js:200:9)
+    at process.<anonymous> (/home/osher/Other-Metas/team-validator.js:176:37)
+    at process.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
+
+TypeError: Cannot call method 'getBanlistTable' of undefined
+    at Validator.validateTeam (/home/osher/Other-Metas/team-validator.js:200:9)
+    at process.<anonymous> (/home/osher/Other-Metas/team-validator.js:176:37)
+    at process.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
+
+TypeError: Cannot call method 'getBanlistTable' of undefined
+    at Validator.validateTeam (/home/osher/Other-Metas/team-validator.js:200:9)
+    at process.<anonymous> (/home/osher/Other-Metas/team-validator.js:176:37)
+    at process.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
+
+TypeError: Cannot call method 'getBanlistTable' of undefined
+    at Validator.validateTeam (/home/osher/Other-Metas/team-validator.js:200:9)
+    at process.<anonymous> (/home/osher/Other-Metas/team-validator.js:176:37)
+    at process.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)

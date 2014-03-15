@@ -2041,6 +2041,7 @@ exports.BattleItems = {
 		spritenum: -6,
 		megaStone: "Latias-Mega",
 		megaEvolves: "Latias",
+		isUnreleased: true,
 		onTakeItem: function(item, source) {
 			if (item.megaEvolves === source.baseTemplate.baseSpecies) return false;
 			return true;
@@ -2055,6 +2056,7 @@ exports.BattleItems = {
 		spritenum: -6,
 		megaStone: "Latios-Mega",
 		megaEvolves: "Latios",
+		isUnreleased: true,
 		onTakeItem: function(item, source) {
 			if (item.megaEvolves === source.baseTemplate.baseSpecies) return false;
 			return true;

@@ -761,8 +761,19 @@ var commands = exports.commands = {
 		}
 		if (target === 'all' || target === 'stabmons') {
 			matched = true;
-			buffer += '- <a href="http://www.smogon.com/forums/threads/3484106/">STABmons</a>';
+			buffer += '- <a href="http://www.smogon.com/forums/threads/3484106/">STABmons</a><br />';
 		}
+		if (target === 'trapmons') {
+			matched = true;
+			buffer += '- Trapmons is an unapproved other metagame that goes by this ruling: Every pokemon gets shadow tag, the rules have been fitted towards this idea:<br />'
+                        buffer += '- New Rule #1: Shadow Tag pokemon can no longer switch out from each other (so 2 shadow tags no longer = free switch)<br />'
+                        buffer += '- New Rule #2: Gengarite, Kangaskhanite, and Lucarionite are unbanned as they have lost their power (gengar since no morep erish trap and khan and luke because of ability change)<br />'
+                        buffer += '- New Rule #3: Perish Song and Shed Shell are banned<br />'
+                        buffer += '- New Rule #4: Slaking, Regigigas and Ditto keep their old abilities for respective reasons<br />'
+                        buffer+= '- ProTip: Ghosts still can switch out on trapping so beware!<br />'
+                        buffer +='- <b>Suspect Test notice: We will be suspect testing Scouting Moves(Volt Switch, U-turn, Baton Pass and Parting Shot)</b><br />';
+                        buffer +='- <b>Mechanic Notice: You pick the pokemons normal ability in the teambuilder and the format will turn it into shadow tag during battle</b><br />';
+                }
 		if (target === 'all' || target === 'omotm' || target === 'omofthemonth' || target === 'month') {
 			matched = true;
 			buffer += '- <a href="http://www.smogon.com/forums/threads/3481155/">OM of the Month</a>';

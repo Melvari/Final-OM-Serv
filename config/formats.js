@@ -13,14 +13,32 @@ exports.Formats = [
 		ruleset: ['Pokemon', 'Standard Unreleased', 'Team Preview'],
 		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite']
 	},
-	/*{
+	{
+		name: "Trapmons",
+		section: "Other Metagames",
+
+                mod: 'trapmons',
+		ruleset: ['Trap Pokemon', 'Standard Unreleased', 'Team Preview'],
+		banlist: ['Uber', 'Soul Dew', 'Shed Shell', 'Perish Song'],
+		validateSet: function(set) {
+			if (set.species === 'Regigigas') set.ability = 'Slow Start';
+			else if (set.species === 'Slaking') set.ability = 'Truant';
+			else if (set.species === 'Ditto') set.ability = 'Imposter';
+			else set.ability = 'Shadow Tag';
+			for (var i in set.moves) {
+				var move = this.getMove(string(set.moves[i]));
+				if (move.basePower && move.basePower >= 280) return ['The move ' + move.name + ' is banned because it has 280+ Base Power.'];
+			}
+		}
+	},
+	{
 		name: "Scalemons",
 		section: "Other Metagames",
 
-                mod: 'scalemons',
-		ruleset: ['Pokemon', 'Standard Unreleased', 'Team Preview'],
-		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite']
-	},*/
+		mod: "scalemons",
+		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
+		banlist: ["Huge Power","Pure Power","Mawilite","Medichamite","Kangashkhanite","Eviolite","Light Ball","Thick Club","Deepseatooth","Deepseascale","Soul Dew","Munchlax","Smeargle"]
+	},
 	{
 		name: "(Almost) Any Ability XY",
 		section: "Other Metagames",
