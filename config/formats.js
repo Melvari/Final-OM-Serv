@@ -32,12 +32,12 @@ exports.Formats = [
 		}
 	},
 	{
-		name: "Scalemons",
+		name: "Test Subject (1)",
 		section: "Other Metagames",
 
-		mod: "scalemons",
+		mod: "testsubject",
 		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
-		banlist: ["Huge Power","Pure Power","Mawilite","Medichamite","Kangashkhanite","Eviolite","Light Ball","Thick Club","Deepseatooth","Deepseascale","Soul Dew","Munchlax","Smeargle"]
+		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite']
 	},
 	{
 		name: "(Almost) Any Ability XY",
