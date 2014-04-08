@@ -1,3 +1,4 @@
+exports.BattleItems = {
 	"gengarite": {
 		id: "gengarite",
 		name: "Gengarite",
