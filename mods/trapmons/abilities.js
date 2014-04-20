@@ -43,12 +43,19 @@ exports.BattleAbilities = {
 	"shadowtag": {
 		desc: "When this Pokemon enters the field, its non-Ghost-type opponents cannot switch or flee the battle unless they have the same ability, are holding Shed Shell, or they use the moves Baton Pass or U-Turn.",
 		shortDesc: "Prevents foes from switching out normally unless they also have this Ability.",
-		onStart: function(pokemon) {
-			this.add('-activate', target, 'trapped');
-		}
+		onFoeModifyPokemon: function(pokemon) {
+			if (pokemon.ability !== 'illuminate') {
+				pokemon.tryTrap();
+			}
+		},
+		onFoeMaybeTrapPokemon: function(pokemon) {
+			if (pokemon.ability !== 'illuminate') {
+				pokemon.maybeTrapped = true;
+			}
+		},
 		id: "shadowtag",
 		name: "Shadow Tag",
 		rating: 5,
 		num: 23
-	},
+	}
 };
