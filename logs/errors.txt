@@ -652,3 +652,94 @@ TypeError: Cannot call method 'getBanlistTable' of undefined
     at process.EventEmitter.emit (events.js:98:17)
     at handleMessage (child_process.js:318:10)
     at Pipe.channel.onread (child_process.js:345:11)
+
+ReferenceError: target is not defined
+    at Tools.exports.BattleAbilities.shadowtag.onStart (/home/osher/Other-Metas/mods/trapmons/abilities.js:47:26)
+    at Tools.Battle.singleEvent (/home/osher/Other-Metas/battle-engine.js:1836:37)
+    at Tools.Battle.runDecision (/home/osher/Other-Metas/battle-engine.js:3319:10)
+    at Tools.Battle.go (/home/osher/Other-Metas/battle-engine.js:3402:9)
+    at Tools.Battle.commitDecisions (/home/osher/Other-Metas/battle-engine.js:3480:8)
+    at Tools.Battle.choose (/home/osher/Other-Metas/battle-engine.js:3462:9)
+    at Tools.Battle.receive (/home/osher/Other-Metas/battle-engine.js:3806:9)
+    at process.BattlePokemon.side (/home/osher/Other-Metas/battle-engine.js:137:12)
+    at process.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+
+Additional information:
+message = battle-trapmons-102|choose|p1|team 5|1
+currentRequest = teampreview
+
+Log:
+|player|p1|Pikachuun|122
+|player|p2|Oiawesome|1
+|gametype|singles
+|gen|6
+|tier|Trapmons
+|clearpoke
+|poke|p1|Kyurem-Black
+|poke|p1|Aegislash, M
+|poke|p1|Chansey, F
+|poke|p1|Deoxys-Defense
+|poke|p1|Noivern, M
+|poke|p1|Zygarde, shiny
+|poke|p2|Charizard, F
+|poke|p2|Clefable, M
+|teampreview
+|chat|Pikachuun|i'll just bring this
+|
+|start
+|split
+|switch|p1a: ;ALSKDJF;LSAKDJFA;|Noivern, M|311/311
+|switch|p1a: ;ALSKDJF;LSAKDJFA;|Noivern, M|48/48
+|switch|p1a: ;ALSKDJF;LSAKDJFA;|Noivern, M|48/48
+|switch|p1a: ;ALSKDJF;LSAKDJFA;|Noivern, M|311/311
+|split
+|switch|p2a: Charizard|Charizard, F|48/48
+|switch|p2a: Charizard|Charizard, F|297/297
+|switch|p2a: Charizard|Charizard, F|48/48
+|switch|p2a: Charizard|Charizard, F|297/297
+
+ReferenceError: target is not defined
+    at Tools.exports.BattleAbilities.shadowtag.onStart (/home/osher/Other-Metas/mods/trapmons/abilities.js:47:26)
+    at Tools.Battle.singleEvent (/home/osher/Other-Metas/battle-engine.js:1836:37)
+    at Tools.Battle.runDecision (/home/osher/Other-Metas/battle-engine.js:3319:10)
+    at Tools.Battle.go (/home/osher/Other-Metas/battle-engine.js:3402:9)
+    at Tools.Battle.commitDecisions (/home/osher/Other-Metas/battle-engine.js:3480:8)
+    at Tools.Battle.choose (/home/osher/Other-Metas/battle-engine.js:3462:9)
+    at Tools.Battle.receive (/home/osher/Other-Metas/battle-engine.js:3806:9)
+    at process.BattlePokemon.side (/home/osher/Other-Metas/battle-engine.js:137:12)
+    at process.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+
+Additional information:
+message = battle-trapmons-103|choose|p2|team 1|1
+currentRequest = teampreview
+
+Log:
+|player|p1|Pikachuun|122
+|player|p2|Oiawesome|1
+|gametype|singles
+|gen|6
+|tier|Trapmons
+|clearpoke
+|poke|p1|Kyurem-Black
+|poke|p1|Aegislash, M
+|poke|p1|Chansey, F
+|poke|p1|Deoxys-Defense
+|poke|p1|Noivern, M
+|poke|p1|Zygarde, shiny
+|poke|p2|Charizard, M
+|poke|p2|Clefable, M
+|teampreview
+|
+|start
+|split
+|switch|p1a: Exor|Aegislash, M|324/324
+|switch|p1a: Exor|Aegislash, M|48/48
+|switch|p1a: Exor|Aegislash, M|48/48
+|switch|p1a: Exor|Aegislash, M|324/324
+|split
+|switch|p2a: Charizard|Charizard, M|48/48
+|switch|p2a: Charizard|Charizard, M|297/297
+|switch|p2a: Charizard|Charizard, M|48/48
+|switch|p2a: Charizard|Charizard, M|297/297
