@@ -32,13 +32,45 @@ exports.Formats = [
 		}
 	},
 	{
-		name: "Scalemons",
+		name: "Test Subject (1)",
 		section: "Other Metagames",
 
-		mod: "scalemons",
+		mod: "testsubject",
 		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
-		banlist: ["Huge Power","Pure Power","Mawilite","Medichamite","Kangashkhanite","Eviolite","Light Ball","Thick Club","Deepseatooth","Deepseascale","Soul Dew","Munchlax","Smeargle"]
+		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite']
 	},
+        {
+            name: "Metagamiate",
+            section: "Other Metagames",
+     
+            ruleset: ['Pokemon', 'Standard', 'Team Preview'],
+            banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite'],
+            onModifyMove: function(move, pokemon) {
+                if (move.type === 'Normal' && move.id !== 'hiddenpower' && ((pokemon.ability !== 'refrigerate' && pokemon.ability !== 'pixilate' && pokemon.ability !== 'aerilate') || pokemon.ignore['Ability'])) {
+                    var typeData = pokemon.getTypes(true).join('/');
+                    for (var i=0, l=pokemon.typesData.length; i<l; i++) {
+                         if ((pokemon.typesData[i].type === 'Normal') || (pokemon.typesData[i].type === 'Fighting') || (pokemon.typesData[i].type === 'Flying') || (pokemon.typesData[i].type === 'Poison') || (pokemon.typesData[i].type === 'Ground') || (pokemon.typesData[i].type === 'Rock') || (pokemon.typesData[i].type === 'Bug') || (pokemon.typesData[i].type === 'Ghost') || (pokemon.typesData[i].type === 'Steel') || (pokemon.typesData[i].type === 'Fire') || (pokemon.typesData[i].type === 'Water') || (pokemon.typesData[i].type === 'Grass') || (pokemon.typesData[i].type === 'Electric') || (pokemon.typesData[i].type === 'Psychic') || (pokemon.typesData[i].type === 'Ice') || (pokemon.typesData[i].type === 'Dragon') || (pokemon.typesData[i].type === 'Dark') || (pokemon.typesData[i].type === 'Fairy')) {
+                             var potato = pokemon.typesData[i].type;
+                             break;
+                         }
+                    }
+                    move.type = potato;
+                    if (move.volatileStatus) {
+                        var volatileStorage = move.volatileStatus;
+                    } else {
+                        var volatileStorage = [];
+                    }
+                    move.volatileStatus = 'choicelock';
+                }
+            },
+            onBasePowerPriority: 9,
+            onBasePower: function(basePower, attacker, defender, move) {
+                if (move.volatileStatus === 'choicelock') {
+                    return this.chainModify([0x14CD, 0x1000]);
+                    move.volatileStatus = volatileStorage;
+                }
+            }
+        },
 	{
 		name: "(Almost) Any Ability XY",
 		section: "Other Metagames",
