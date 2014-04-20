@@ -18,7 +18,7 @@ exports.Formats = [
 		section: "Other Metagames",
 
                 mod: 'trapmons',
-		ruleset: ['Trap Pokemon', 'Standard Unreleased', 'Team Preview'],
+		ruleset: ['Standard Unreleased', 'Team Preview'],
 		banlist: ['Uber', 'Soul Dew', 'Shed Shell', 'Perish Song'],
 		validateSet: function(set) {
 			if (set.species === 'Regigigas') set.ability = 'Slow Start';
