@@ -45,7 +45,7 @@ exports.BattleAbilities = {
 		shortDesc: "Prevents foes from switching out normally unless they also have this Ability.",
 		onStart: function(pokemon) {
 			this.add('-activate', target, 'trapped');
-		}
+		},
 		id: "shadowtag",
 		name: "Shadow Tag",
 		rating: 5,
