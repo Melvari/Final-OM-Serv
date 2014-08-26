@@ -42,7 +42,7 @@ exports.loginserverpublickey = "-----BEGIN RSA PUBLIC KEY-----\n" +
 
 // crashguardemail - if the server has been running for more than an hour
 // and crashes, send an email using these settings, rather than locking down
-// the server. Uncomment this definition if you wan to use this feature;
+// the server. Uncomment this definition if you want to use this feature;
 // otherwise, all crashes will lock down the server.
 /**exports.crashguardemail = {
 	transport: 'SMTP',
@@ -100,7 +100,7 @@ exports.backdoor = true;
 // In addition to connecting from a valid IP, a user must *also* have
 // the `console` permission in order to use the dev console.
 // Setting this to an empty array ([]) will disable the dev console.
-exports.consoleips = ['127.0.0.1','192.168.1.8'];
+exports.consoleips = ['127.0.0.1'];
 
 // Whether to watch the config file for changes. If this is enabled,
 // then the config.js file will be reloaded when it is changed.
@@ -113,7 +113,7 @@ exports.logchat = false;
 
 // loguserstats - how often (in milliseconds) to write user stats to the
 // lobby log. This has no effect if `logchat` is disabled.
-exports.loguserstats = 1000*60*10; // 10 minutes
+exports.loguserstats = 1000 * 60 * 10; // 10 minutes
 
 // validatorprocesses - the number of processes to use for validating teams
 // simulatorprocesses - the number of processes to use for handling battles
@@ -124,7 +124,7 @@ exports.simulatorprocesses = 1;
 
 // inactiveuserthreshold - how long a user must be inactive before being pruned
 // from the `users` array. The default is 1 hour.
-exports.inactiveuserthreshold = 1000*60*60;
+exports.inactiveuserthreshold = 1000 * 60 * 60;
 
 // Set this to true if you are using Pokemon Showdown on Heroku.
 exports.herokuhack = false;
@@ -138,7 +138,11 @@ exports.herokuhack = false;
 // Your server *must* be registered in order for your custom avatars to be
 // displayed in the client.
 exports.customavatars = {
-	//'userid': 'customavatar.png'
+	'pikachuun': 'pikachuun.png',
+	'unfixable': 'unfixable.gif',
+	'montecrist0': 'montecrist0.png',
+	'rangermike': 'seismit0ad.png',
+	'seismit0ad': 'seismit0ad.png'
 };
 
 // appealurl - specify a URL containing information on how users can appeal
@@ -188,24 +192,31 @@ exports.appealurl = '';
 exports.groupsranking = [' ', '+', '%', '@', '\u2605', '#', '&', '~'];
 exports.groups = {
 	'~': {
-		id: "megaop",
-		name: "Mega AOp",
+		id: "admin",
+		name: "Administrator",
 		root: true,
 		globalonly: true,
-		gdeclare: true,
 		rank: 7
 	},
 	'&': {
-		id: "aop",
-		name: "AOp",
-		root: true,
+		id: "leader",
+		name: "Leader",
+		inherit: '@',
+		jurisdiction: '@u',
+		promote: 'u',
+		forcewin: true,
+		declare: true,
+		modchatall: true,
+		rangeban: true,
+		potd: true,
+		disableladder: true,
 		globalonly: true,
-		gdeclare: true,
+		tournamentsmanagement: true,
 		rank: 6
 	},
 	'#': {
-		id: "rop",
-		name: "ROp",
+		id: "owner",
+		name: "Room Owner",
 		inherit: '@',
 		jurisdiction: 'u',
 		roommod: true,
@@ -213,11 +224,12 @@ exports.groups = {
 		declare: true,
 		modchatall: true,
 		roomonly: true,
+		tournamentsmanagement: true,
 		rank: 5
 	},
 	'\u2605': {
-		id: "pop",
-		name: "POp",
+		id: "player",
+		name: "Player",
 		inherit: '+',
 		roomvoice: true,
 		modchat: true,
@@ -226,29 +238,22 @@ exports.groups = {
 		rank: 4
 	},
 	'@': {
-		id: "op",
-		name: "Op",
+		id: "mod",
+		name: "Moderator",
 		inherit: '%',
 		jurisdiction: 'u',
-		promote: 'u',
 		ban: true,
 		modchat: true,
 		roomvoice: true,
 		forcerename: true,
-		forcewin: true,
-		declare: true,
-		modchatall: true,
-		rangeban: true,
-		potd: true,
-		disableladder: true,
-		globalonly: true,
 		ip: true,
 		alts: '@u',
+		tournaments: true,
 		rank: 3
 	},
 	'%': {
-		id: "hop",
-		name: "HOp",
+		id: "driver",
+		name: "Driver",
 		inherit: '+',
 		jurisdiction: 'u',
 		announce: true,
@@ -262,11 +267,12 @@ exports.groups = {
 		alts: '%u',
 		bypassblocks: 'u%@&~',
 		receiveauthmessages: true,
+		tournamentsmoderation: true,
 		rank: 2
 	},
 	'+': {
-		id: "vop",
-		name: "VOp",
+		id: "voice",
+		name: "Voice",
 		inherit: ' ',
 		broadcast: true,
 		joinbattle: true,

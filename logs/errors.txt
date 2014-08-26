@@ -1,745 +1,227 @@
 
-ReferenceError: template is not defined
-    at Object.exports.commands.rbydata (/home/osher/Old-Gens/config/commands.js:329:190)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-    at Pipe.channel.onread (child_process.js:345:11)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |!rbydata magneton
-
-ReferenceError: data is not defined
-    at Object.exports.commands.tierdata (/home/osher/Old-Gens/config/commands.js:403:18)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-    at Pipe.channel.onread (child_process.js:345:11)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |!tierdata garchomp
-
-ReferenceError: data is not defined
-    at Object.exports.commands.tierdata (/home/osher/Old-Gens/config/commands.js:400:18)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-    at Pipe.channel.onread (child_process.js:345:11)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |!tierdata latias
-
-ReferenceError: escapeHTML is not defined
-    at Object.exports.commands.regdate (/home/osher/Old-Gens/config/commands.js:343:14)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-    at Pipe.channel.onread (child_process.js:345:11)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |!regdate oiawesome
-
-ReferenceError: escapeHTML is not defined
-    at Object.exports.commands.regdate (/home/osher/Old-Gens/config/commands.js:343:14)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-    at Pipe.channel.onread (child_process.js:345:11)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |!regdate zarel
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
-    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |/demote caterpieflow
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
-    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = caterpieflow
-ip = 184.155.110.221
-roomid = 
-message = |/demote caterpieflow
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
-    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = somekiwi
-ip = 174.61.83.32
-roomid = 
-message = |/demote SomeKiwi
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
-    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
-    at exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:210:12)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = caterpieflow
-ip = 184.155.110.221
-roomid = 
-message = |/admin CaterpieFlow
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
-    at Object.exports.commands.declare (/home/osher/Old-Gens/commands.js:853:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = somekiwi
-ip = 174.61.83.32
-roomid = 
-message = |/declare OMFG WE FAQUED IT UP! THE SKY IS FALLING!
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
-    at Object.exports.commands.mute (/home/osher/Old-Gens/commands.js:516:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = caterpieflow
-ip = 184.155.110.221
-roomid = 
-message = |/mute cynthia
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
-    at Object.exports.commands.hotpatch (/home/osher/Old-Gens/commands.js:1013:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |/hotpatch chat
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
-    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = somekiwi
-ip = 174.61.83.32
-roomid = 
-message = |/demote SomeKiwi
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
-    at Object.exports.commands.mute (/home/osher/Old-Gens/commands.js:516:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = caterpieflow
-ip = 184.155.110.221
-roomid = 
-message = |/mute jd
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at Object.exports.commands.query (/home/osher/Old-Gens/commands.js:1678:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1231:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-
-Additional information:
-user = caterpieflow
-ip = 184.155.110.221
-roomid = 
-message = |/cmd userdetails oiawesome
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at Object.exports.commands.query (/home/osher/Old-Gens/commands.js:1678:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1231:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-
-Additional information:
-user = caterpieflow
-ip = 184.155.110.221
-roomid = 
-message = |/cmd userdetails somekiwi
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
-    at Object.exports.commands.kill (/home/osher/Old-Gens/commands.js:1151:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = somekiwi
-ip = 174.61.83.32
-roomid = 
-message = |/kill Cynthia
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
-    at Object.exports.commands.mute (/home/osher/Old-Gens/commands.js:516:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = somekiwi
-ip = 174.61.83.32
-roomid = 
-message = |/mute Cynthia
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
-    at Object.exports.commands.warn (/home/osher/Old-Gens/commands.js:473:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = somekiwi
-ip = 174.61.83.32
-roomid = 
-message = |/warn Cynthia
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
-    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |/promote Oiawesome
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at User.canPromote (/home/osher/Old-Gens/users.js:473:15)
-    at Object.exports.commands.promote (/home/osher/Old-Gens/commands.js:759:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |/demote Oiawesome
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
-    at Object.exports.commands.warn (/home/osher/Old-Gens/commands.js:473:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = caterpieflow
-ip = 184.155.110.221
-roomid = 
-message = |/warn cynthia
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at Object.context.can (/home/osher/Old-Gens/command-parser.js:152:15)
-    at Object.exports.commands.loadbanlist (/home/osher/Old-Gens/commands.js:1179:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1253:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-
-Additional information:
-user = caterpieflow
-ip = 184.155.110.221
-roomid = 
-message = |/loadbanlist
-
-TypeError: Cannot read property 'root' of undefined
-    at User.can (/home/osher/Old-Gens/users.js:371:16)
-    at Object.exports.commands.query (/home/osher/Old-Gens/commands.js:1678:13)
-    at Object.exports.parse (/home/osher/Old-Gens/command-parser.js:201:31)
-    at ChatRoom.chat (/home/osher/Old-Gens/rooms.js:1488:27)
-    at User.chat (/home/osher/Old-Gens/users.js:1231:9)
-    at Object.socketReceive (/home/osher/Old-Gens/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Old-Gens/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-
-Additional information:
-user = somekiwi
-ip = 174.61.83.32
-roomid = 
-message = |/cmd userdetails somekiwi
-
-TypeError: Cannot read property 'auth' of undefined
-    at User.getIdentity (/home/osher/Other-Metas/users.js:352:11)
-    at Object.exports.commands.msg (/home/osher/Other-Metas/commands.js:121:29)
-    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:207:31)
-    at GlobalRoom.chat (/home/osher/Other-Metas/rooms.js:500:27)
-    at User.chat (/home/osher/Other-Metas/users.js:1266:9)
-    at Object.socketReceive (/home/osher/Other-Metas/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |/pm adrianhatesdc, testing more teams
-
-TypeError: Cannot read property 'auth' of undefined
-    at User.getIdentity (/home/osher/Other-Metas/users.js:352:11)
-    at Object.exports.commands.msg (/home/osher/Other-Metas/commands.js:121:29)
-    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:207:31)
-    at GlobalRoom.chat (/home/osher/Other-Metas/rooms.js:500:27)
-    at User.chat (/home/osher/Other-Metas/users.js:1266:9)
-    at Object.socketReceive (/home/osher/Other-Metas/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |/pm adrianhatesdc, testing more teams
-
-TypeError: Cannot read property 'auth' of undefined
-    at User.getIdentity (/home/osher/Other-Metas/users.js:352:11)
-    at Object.exports.commands.msg (/home/osher/Other-Metas/commands.js:121:29)
-    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:207:31)
-    at GlobalRoom.chat (/home/osher/Other-Metas/rooms.js:500:27)
-    at User.chat (/home/osher/Other-Metas/users.js:1266:9)
-    at Object.socketReceive (/home/osher/Other-Metas/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |/pm adrianhatesdc, testing something
-
-TypeError: Cannot read property 'auth' of undefined
-    at User.getIdentity (/home/osher/Other-Metas/users.js:352:11)
-    at Object.exports.commands.msg (/home/osher/Other-Metas/commands.js:121:29)
-    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:207:31)
-    at GlobalRoom.chat (/home/osher/Other-Metas/rooms.js:500:27)
-    at User.chat (/home/osher/Other-Metas/users.js:1266:9)
-    at Object.socketReceive (/home/osher/Other-Metas/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |/pm adrianhatesdc, test
-
-TypeError: Cannot read property 'auth' of undefined
-    at User.getIdentity (/home/osher/Other-Metas/users.js:352:11)
-    at Object.exports.commands.msg (/home/osher/Other-Metas/commands.js:121:29)
-    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:207:31)
-    at GlobalRoom.chat (/home/osher/Other-Metas/rooms.js:500:27)
-    at User.chat (/home/osher/Other-Metas/users.js:1266:9)
-    at Object.socketReceive (/home/osher/Other-Metas/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |/pm adrianhatesdc, ...
-
-TypeError: Cannot read property 'auth' of undefined
-    at User.getIdentity (/home/osher/Other-Metas/users.js:352:11)
-    at Object.exports.commands.msg (/home/osher/Other-Metas/commands.js:121:29)
-    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:207:31)
-    at GlobalRoom.chat (/home/osher/Other-Metas/rooms.js:500:27)
-    at User.chat (/home/osher/Other-Metas/users.js:1266:9)
-    at Object.socketReceive (/home/osher/Other-Metas/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |/pm adrianhatesdc, yo
-
-TypeError: Cannot read property 'auth' of undefined
-    at User.getIdentity (/home/osher/Other-Metas/users.js:352:11)
-    at Object.exports.commands.msg (/home/osher/Other-Metas/commands.js:121:29)
-    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:207:31)
-    at GlobalRoom.chat (/home/osher/Other-Metas/rooms.js:500:27)
-    at User.chat (/home/osher/Other-Metas/users.js:1266:9)
-    at Object.socketReceive (/home/osher/Other-Metas/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = 
-message = |/pm adrianhatesdc, talk talk talk
-
-TypeError: Cannot read property 'auth' of undefined
-    at User.getIdentity (/home/osher/Other-Metas/users.js:352:11)
-    at Object.exports.commands.msg (/home/osher/Other-Metas/commands.js:121:29)
-    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:207:31)
-    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1484:27)
-    at User.chat (/home/osher/Other-Metas/users.js:1266:9)
-    at Object.socketReceive (/home/osher/Other-Metas/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = othermetaslobby
-message = othermetaslobby|/pm oiawesome, talk
-
-TypeError: Cannot read property 'auth' of undefined
-    at User.getIdentity (/home/osher/Other-Metas/users.js:352:11)
-    at Object.exports.commands.msg (/home/osher/Other-Metas/commands.js:121:29)
-    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:207:31)
-    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1484:27)
-    at User.chat (/home/osher/Other-Metas/users.js:1266:9)
-    at Object.socketReceive (/home/osher/Other-Metas/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = othermetaslobby
-message = othermetaslobby|/pm oiawesome, talk
-
-TypeError: Cannot read property 'auth' of undefined
-    at User.getIdentity (/home/osher/Other-Metas/users.js:352:11)
-    at Object.exports.commands.msg (/home/osher/Other-Metas/commands.js:121:29)
-    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:207:31)
-    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1484:27)
-    at User.chat (/home/osher/Other-Metas/users.js:1266:9)
-    at Object.socketReceive (/home/osher/Other-Metas/users.js:197:13)
-    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
-    at Worker.EventEmitter.emit (events.js:98:17)
-    at ChildProcess.EventEmitter.emit (events.js:98:17)
-    at handleMessage (child_process.js:318:10)
-
-Additional information:
-user = oiawesome
-ip = 127.0.0.1
-roomid = othermetaslobby
-message = othermetaslobby|/pm Oiawesome, hi
-
 TypeError: Cannot call method 'getBanlistTable' of undefined
-    at Validator.validateTeam (/home/osher/Other-Metas/team-validator.js:200:9)
-    at process.<anonymous> (/home/osher/Other-Metas/team-validator.js:176:37)
+    at Validator.validateTeam (/home/osher/Downloads/Pokemon-Showdown-master/team-validator.js:195:9)
+    at process.<anonymous> (/home/osher/Downloads/Pokemon-Showdown-master/team-validator.js:171:37)
     at process.EventEmitter.emit (events.js:98:17)
     at handleMessage (child_process.js:318:10)
     at Pipe.channel.onread (child_process.js:345:11)
 
 TypeError: Cannot call method 'getBanlistTable' of undefined
-    at Validator.validateTeam (/home/osher/Other-Metas/team-validator.js:200:9)
-    at process.<anonymous> (/home/osher/Other-Metas/team-validator.js:176:37)
+    at Validator.validateTeam (/home/osher/Downloads/Pokemon-Showdown-master/team-validator.js:195:9)
+    at process.<anonymous> (/home/osher/Downloads/Pokemon-Showdown-master/team-validator.js:171:37)
     at process.EventEmitter.emit (events.js:98:17)
     at handleMessage (child_process.js:318:10)
     at Pipe.channel.onread (child_process.js:345:11)
 
-TypeError: Cannot call method 'getBanlistTable' of undefined
-    at Validator.validateTeam (/home/osher/Other-Metas/team-validator.js:200:9)
-    at process.<anonymous> (/home/osher/Other-Metas/team-validator.js:176:37)
-    at process.EventEmitter.emit (events.js:98:17)
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1506:27)
+    at User.chat (/home/osher/Other-Metas/users.js:1297:9)
+    at Object.socketReceive (/home/osher/Other-Metas/users.js:211:12)
+    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
     at handleMessage (child_process.js:318:10)
     at Pipe.channel.onread (child_process.js:345:11)
 
-TypeError: Cannot call method 'getBanlistTable' of undefined
-    at Validator.validateTeam (/home/osher/Other-Metas/team-validator.js:200:9)
-    at process.<anonymous> (/home/osher/Other-Metas/team-validator.js:176:37)
-    at process.EventEmitter.emit (events.js:98:17)
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1506:27)
+    at User.chat (/home/osher/Other-Metas/users.js:1297:9)
+    at Object.socketReceive (/home/osher/Other-Metas/users.js:211:12)
+    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
     at handleMessage (child_process.js:318:10)
     at Pipe.channel.onread (child_process.js:345:11)
 
-TypeError: Cannot call method 'getBanlistTable' of undefined
-    at Validator.validateTeam (/home/osher/Other-Metas/team-validator.js:200:9)
-    at process.<anonymous> (/home/osher/Other-Metas/team-validator.js:176:37)
-    at process.EventEmitter.emit (events.js:98:17)
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1506:27)
+    at User.chat (/home/osher/Other-Metas/users.js:1297:9)
+    at Object.socketReceive (/home/osher/Other-Metas/users.js:211:12)
+    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
     at handleMessage (child_process.js:318:10)
     at Pipe.channel.onread (child_process.js:345:11)
 
-TypeError: Cannot call method 'getBanlistTable' of undefined
-    at Validator.validateTeam (/home/osher/Other-Metas/team-validator.js:200:9)
-    at process.<anonymous> (/home/osher/Other-Metas/team-validator.js:176:37)
-    at process.EventEmitter.emit (events.js:98:17)
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1506:27)
+    at User.chat (/home/osher/Other-Metas/users.js:1297:9)
+    at Object.socketReceive (/home/osher/Other-Metas/users.js:211:12)
+    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
     at handleMessage (child_process.js:318:10)
     at Pipe.channel.onread (child_process.js:345:11)
 
-ReferenceError: target is not defined
-    at Tools.exports.BattleAbilities.shadowtag.onStart (/home/osher/Other-Metas/mods/trapmons/abilities.js:47:26)
-    at Tools.Battle.singleEvent (/home/osher/Other-Metas/battle-engine.js:1836:37)
-    at Tools.Battle.runDecision (/home/osher/Other-Metas/battle-engine.js:3319:10)
-    at Tools.Battle.go (/home/osher/Other-Metas/battle-engine.js:3402:9)
-    at Tools.Battle.commitDecisions (/home/osher/Other-Metas/battle-engine.js:3480:8)
-    at Tools.Battle.choose (/home/osher/Other-Metas/battle-engine.js:3462:9)
-    at Tools.Battle.receive (/home/osher/Other-Metas/battle-engine.js:3806:9)
-    at process.BattlePokemon.side (/home/osher/Other-Metas/battle-engine.js:137:12)
-    at process.EventEmitter.emit (events.js:98:17)
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1506:27)
+    at User.processChatQueue (/home/osher/Other-Metas/users.js:1313:13)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:110:15)
+
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1506:27)
+    at User.chat (/home/osher/Other-Metas/users.js:1297:9)
+    at Object.socketReceive (/home/osher/Other-Metas/users.js:211:12)
+    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
     at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
 
-Additional information:
-message = battle-trapmons-102|choose|p1|team 5|1
-currentRequest = teampreview
-
-Log:
-|player|p1|Pikachuun|122
-|player|p2|Oiawesome|1
-|gametype|singles
-|gen|6
-|tier|Trapmons
-|clearpoke
-|poke|p1|Kyurem-Black
-|poke|p1|Aegislash, M
-|poke|p1|Chansey, F
-|poke|p1|Deoxys-Defense
-|poke|p1|Noivern, M
-|poke|p1|Zygarde, shiny
-|poke|p2|Charizard, F
-|poke|p2|Clefable, M
-|teampreview
-|chat|Pikachuun|i'll just bring this
-|
-|start
-|split
-|switch|p1a: ;ALSKDJF;LSAKDJFA;|Noivern, M|311/311
-|switch|p1a: ;ALSKDJF;LSAKDJFA;|Noivern, M|48/48
-|switch|p1a: ;ALSKDJF;LSAKDJFA;|Noivern, M|48/48
-|switch|p1a: ;ALSKDJF;LSAKDJFA;|Noivern, M|311/311
-|split
-|switch|p2a: Charizard|Charizard, F|48/48
-|switch|p2a: Charizard|Charizard, F|297/297
-|switch|p2a: Charizard|Charizard, F|48/48
-|switch|p2a: Charizard|Charizard, F|297/297
-
-ReferenceError: target is not defined
-    at Tools.exports.BattleAbilities.shadowtag.onStart (/home/osher/Other-Metas/mods/trapmons/abilities.js:47:26)
-    at Tools.Battle.singleEvent (/home/osher/Other-Metas/battle-engine.js:1836:37)
-    at Tools.Battle.runDecision (/home/osher/Other-Metas/battle-engine.js:3319:10)
-    at Tools.Battle.go (/home/osher/Other-Metas/battle-engine.js:3402:9)
-    at Tools.Battle.commitDecisions (/home/osher/Other-Metas/battle-engine.js:3480:8)
-    at Tools.Battle.choose (/home/osher/Other-Metas/battle-engine.js:3462:9)
-    at Tools.Battle.receive (/home/osher/Other-Metas/battle-engine.js:3806:9)
-    at process.BattlePokemon.side (/home/osher/Other-Metas/battle-engine.js:137:12)
-    at process.EventEmitter.emit (events.js:98:17)
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1506:27)
+    at User.chat (/home/osher/Other-Metas/users.js:1297:9)
+    at Object.socketReceive (/home/osher/Other-Metas/users.js:211:12)
+    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
     at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
 
-Additional information:
-message = battle-trapmons-103|choose|p2|team 1|1
-currentRequest = teampreview
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1506:27)
+    at User.chat (/home/osher/Other-Metas/users.js:1297:9)
+    at Object.socketReceive (/home/osher/Other-Metas/users.js:211:12)
+    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
 
-Log:
-|player|p1|Pikachuun|122
-|player|p2|Oiawesome|1
-|gametype|singles
-|gen|6
-|tier|Trapmons
-|clearpoke
-|poke|p1|Kyurem-Black
-|poke|p1|Aegislash, M
-|poke|p1|Chansey, F
-|poke|p1|Deoxys-Defense
-|poke|p1|Noivern, M
-|poke|p1|Zygarde, shiny
-|poke|p2|Charizard, M
-|poke|p2|Clefable, M
-|teampreview
-|
-|start
-|split
-|switch|p1a: Exor|Aegislash, M|324/324
-|switch|p1a: Exor|Aegislash, M|48/48
-|switch|p1a: Exor|Aegislash, M|48/48
-|switch|p1a: Exor|Aegislash, M|324/324
-|split
-|switch|p2a: Charizard|Charizard, M|48/48
-|switch|p2a: Charizard|Charizard, M|297/297
-|switch|p2a: Charizard|Charizard, M|48/48
-|switch|p2a: Charizard|Charizard, M|297/297
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1506:27)
+    at User.chat (/home/osher/Other-Metas/users.js:1297:9)
+    at Object.socketReceive (/home/osher/Other-Metas/users.js:211:12)
+    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
+
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1506:27)
+    at User.chat (/home/osher/Other-Metas/users.js:1297:9)
+    at Object.socketReceive (/home/osher/Other-Metas/users.js:211:12)
+    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
+
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1506:27)
+    at User.chat (/home/osher/Other-Metas/users.js:1297:9)
+    at Object.socketReceive (/home/osher/Other-Metas/users.js:211:12)
+    at Worker.<anonymous> (/home/osher/Other-Metas/sockets.js:46:11)
+    at Worker.EventEmitter.emit (events.js:98:17)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)
+
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Other-Metas/rooms.js:1506:27)
+    at User.processChatQueue (/home/osher/Other-Metas/users.js:1313:13)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:110:15)
+
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Downloads/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Downloads/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Downloads/Other-Metas/rooms.js:1507:27)
+    at User.chat (/home/osher/Downloads/Other-Metas/users.js:1304:9)
+    at Function.Users.socketReceive (/home/osher/Downloads/Other-Metas/users.js:200:12)
+    at Worker.<anonymous> (/home/osher/Downloads/Other-Metas/sockets.js:46:11)
+    at Worker.emit (events.js:98:17)
+    at ChildProcess.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+    at Pipe.channel.onread (child_process.js:349:11)
+
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Downloads/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Downloads/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Downloads/Other-Metas/rooms.js:1507:27)
+    at User.chat (/home/osher/Downloads/Other-Metas/users.js:1304:9)
+    at Function.Users.socketReceive (/home/osher/Downloads/Other-Metas/users.js:200:12)
+    at Worker.<anonymous> (/home/osher/Downloads/Other-Metas/sockets.js:46:11)
+    at Worker.emit (events.js:98:17)
+    at ChildProcess.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+    at Pipe.channel.onread (child_process.js:349:11)
+
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Downloads/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Downloads/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Downloads/Other-Metas/rooms.js:1507:27)
+    at User.chat (/home/osher/Downloads/Other-Metas/users.js:1304:9)
+    at Function.Users.socketReceive (/home/osher/Downloads/Other-Metas/users.js:200:12)
+    at Worker.<anonymous> (/home/osher/Downloads/Other-Metas/sockets.js:46:11)
+    at Worker.emit (events.js:98:17)
+    at ChildProcess.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+    at Pipe.channel.onread (child_process.js:349:11)
+
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Downloads/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Downloads/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Downloads/Other-Metas/rooms.js:1507:27)
+    at User.chat (/home/osher/Downloads/Other-Metas/users.js:1304:9)
+    at Function.Users.socketReceive (/home/osher/Downloads/Other-Metas/users.js:200:12)
+    at Worker.<anonymous> (/home/osher/Downloads/Other-Metas/sockets.js:46:11)
+    at Worker.emit (events.js:98:17)
+    at ChildProcess.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+    at Pipe.channel.onread (child_process.js:349:11)
+
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Downloads/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Downloads/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Downloads/Other-Metas/rooms.js:1507:27)
+    at User.chat (/home/osher/Downloads/Other-Metas/users.js:1304:9)
+    at Function.Users.socketReceive (/home/osher/Downloads/Other-Metas/users.js:200:12)
+    at Worker.<anonymous> (/home/osher/Downloads/Other-Metas/sockets.js:46:11)
+    at Worker.emit (events.js:98:17)
+    at ChildProcess.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+    at Pipe.channel.onread (child_process.js:349:11)
+
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Downloads/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Downloads/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Downloads/Other-Metas/rooms.js:1507:27)
+    at User.chat (/home/osher/Downloads/Other-Metas/users.js:1304:9)
+    at Function.Users.socketReceive (/home/osher/Downloads/Other-Metas/users.js:200:12)
+    at Worker.<anonymous> (/home/osher/Downloads/Other-Metas/sockets.js:46:11)
+    at Worker.emit (events.js:98:17)
+    at ChildProcess.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+    at Pipe.channel.onread (child_process.js:349:11)
+
+TypeError: Object This room has no auth. has no method 'join'
+    at Object.exports.commands.roomauth (/home/osher/Downloads/Other-Metas/commands.js:402:27)
+    at Object.exports.parse (/home/osher/Downloads/Other-Metas/command-parser.js:229:31)
+    at ChatRoom.chat (/home/osher/Downloads/Other-Metas/rooms.js:1507:27)
+    at User.processChatQueue (/home/osher/Downloads/Other-Metas/users.js:1320:13)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:110:15)

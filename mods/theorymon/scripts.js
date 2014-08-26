@@ -1,16 +1,22 @@
 /**
- * This is the theorymon mod for OU Theorymon (http://www.smogon.com/forums/threads/the-ou-theorymon-project-psychic-fairy-cresselia.3499219/)
- * Each month about 8 Pokémon are changed to fit the OU metagame and tested within.
+ * This is the mod for OU Theorymon (https://smogon.com/forums/threads/3499219/)
+ * Each month roughly 6 Pokémon are changed to fit the OU metagame and tested within.
  */
 exports.BattleScripts = {
 	gen: 6,
-	init: function() {
-		this.modData('Pokedex', 'ampharosmega').abilities = {0: 'Regenerator'};
-		this.modData('Pokedex', 'mismagius').types = ['Ghost', 'Fairy'];
-		this.modData('Learnsets', 'empoleon').learnset.roost = ['6L100'];
-		this.modData('Pokedex', 'altaria').types = ['Dragon', 'Fairy'];
-		this.modData('Learnsets', 'scrafty').learnset.partingshot = ['6L100'];
-		this.modData('Pokedex', 'metagross').abilities = {0: 'Bulletproof'};
-		this.modData('Pokedex', 'cresselia').types = ['Psychic', 'Fairy'];
+	init: function () {
+		// May
+		this.modData('Learnsets', 'braviary').learnset.extremespeed = ['6L1'];
+		this.modData('Pokedex', 'tangrowth').types = ['Grass', 'Poison'];
+		this.modData('Learnsets', 'blastoise').learnset.slackoff = ['6L1'];
+		this.modData('Learnsets', 'hydreigon').learnset.defog = ['6L1'];
+		this.modData('Pokedex', 'zygarde').abilities['1'] = 'Shed Skin';
+
+		// June
+		this.modData('Pokedex', 'torterra').abilities['1'] = 'Drought';
+		this.modData('Pokedex', 'umbreon').types = ['Dark', 'Poison'];
+		this.modData('Learnsets', 'aggron').learnset.shiftgear = ['6L1'];
+		this.modData('Pokedex', 'noivern').abilities['H'] = 'Drizzle';
+		this.modData('Pokedex', 'honchkrow').abilities['1'] = 'Tough Claws';
 	}
 };

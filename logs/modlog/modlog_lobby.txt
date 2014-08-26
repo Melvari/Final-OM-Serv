@@ -1,327 +1,38 @@
-[2014-02-22T17:24:59.133Z] (lobby) CaterpieFlow was promoted to Administrator by Oiawesome.
-[2014-02-22T19:37:12.199Z] (lobby) GingaGreninja-Kun was promoted to Driver by Oiawesome.
-[2014-02-22T19:37:26.665Z] (lobby) Cynthia was promoted to Moderator by Oiawesome.
-[2014-02-22T19:39:08.715Z] (lobby) Data_Overload was muted by GingaGreninja-Kun for 7 minutes.
-[2014-02-22T19:39:28.095Z] (lobby) Data_Overload was unmuted by Cynthia.
-[2014-02-22T19:40:19.953Z] (lobby) ashiemore was locked from talking by Cynthia.
-[2014-02-22T19:40:39.813Z] (lobby) ashiemore was unlocked by Cynthia.
-[2014-02-22T19:40:54.067Z] (lobby) MoxieInfinite was warned by GingaGreninja-Kun.
-[2014-02-22T19:42:15.391Z] (lobby) GingaGreninja-Kun was warned by Cynthia.
-[2014-02-22T19:45:25.000Z] (lobby) |raw| <img src="https://s3.amazonaws.com/mibbit/gfx/smilies/yel36.png">
-[2014-02-22T19:45:41.905Z] (lobby) |raw| <img src="https://s3.amazonaws.com/mibbit/gfx/smilies/yel30.png">
-[2014-02-22T19:45:48.285Z] (lobby) |raw| <img src="https://s3.amazonaws.com/mibbit/gfx/smilies/yel32.png">
-[2014-02-22T19:45:54.327Z] (lobby) |raw| <img src="https://s3.amazonaws.com/mibbit/gfx/smilies/yel31.png">
-[2014-02-22T19:46:03.343Z] (lobby) |raw| <img src="https://s3.amazonaws.com/mibbit/gfx/smilies/yel33.png">
-[2014-02-22T19:46:06.367Z] (lobby) |raw| <img src="https://s3.amazonaws.com/mibbit/gfx/smilies/yel34.png">
-[2014-02-22T19:46:10.275Z] (lobby) |raw| <img src="https://s3.amazonaws.com/mibbit/gfx/smilies/yel35.png">
-[2014-02-22T19:46:13.500Z] (lobby) |raw| <img src="https://s3.amazonaws.com/mibbit/gfx/smilies/yel37.png">
-[2014-02-22T19:46:28.600Z] (lobby) ashiemore was warned by GingaGreninja-Kun.
-[2014-02-22T19:47:42.669Z] (lobby) ashiemore was muted by GingaGreninja-Kun for 7 minutes.
-[2014-02-22T19:48:20.976Z] (lobby) ashiemore was unmuted by Oiawesome.
-[2014-02-22T19:48:31.693Z] (lobby) ashiemore was muted by Oiawesome for 7 minutes. (satisfactory mute imo)
-[2014-02-22T19:48:34.287Z] (lobby) ashiemore was unmuted by Oiawesome.
-[2014-02-22T20:19:45.131Z] (lobby) GingaGreninja-Kun was locked from talking by Cynthia.
-[2014-02-22T20:20:05.605Z] (lobby) GingaGreninja-Kun was unlocked by Cynthia.
-[2014-02-22T20:24:39.599Z] (lobby) (MoxieInfinite was forcibly renamed to Helix Fossil by Oiawesome.)
-[2014-02-22T20:26:55.538Z] (lobby) Cynthia set modchat to +
-[2014-02-22T20:27:00.294Z] (lobby) Cynthia set modchat to false
-[2014-02-22T20:27:46.343Z] (lobby) (Oiawesome was forcibly renamed to Oiawesome@Gym by Oiawesome.)
-[2014-02-22T20:28:41.450Z] (lobby) Protean Kecleon was warned by Cynthia.
-[2014-02-22T20:36:36.601Z] (lobby) (ashiemore was forced to choose a new name by GingaGreninja-Kun: test)
-[2014-02-22T20:39:36.494Z] (lobby) (GingaGreninja-Kun was forced to choose a new name by Cynthia: cause, do it)
-[2014-02-22T20:43:21.291Z] (lobby) GingaGreninja-Kun was muted by Cynthia for 7 minutes.
-[2014-02-22T20:43:35.674Z] (lobby) GingaGreninja-Kun was unmuted by Cynthia.
-[2014-02-22T20:46:33.750Z] (lobby) Protean Kecleon was muted by GingaGreninja-Kun for 7 minutes. (MINE!!)
-[2014-02-22T20:46:55.764Z] (lobby) Protean Kecleon was unmuted by GingaGreninja-Kun.
-[2014-02-22T20:47:35.014Z] (lobby) GingaGreninja-Kun was locked from talking by Cynthia.
-[2014-02-22T20:47:40.906Z] (lobby) Protean Kecleon was locked from talking by Cynthia.
-[2014-02-22T20:48:03.881Z] (lobby) Protean Kecleon was unlocked by Cynthia.
-[2014-02-22T20:48:17.767Z] (lobby) GingaGreninja-Kun was unlocked by Cynthia.
-[2014-02-22T20:49:43.993Z] (lobby) jd was muted by GingaGreninja-Kun for 7 minutes. (you dont speak so this doesnt really affect you)
-[2014-02-22T20:49:54.741Z] (lobby) jd was unmuted by GingaGreninja-Kun.
-[2014-02-22T20:50:48.301Z] (lobby) GingaGreninja-Kun was warned by Cynthia. (Its illegal to not <3)
-[2014-02-22T21:17:01.632Z] (lobby) ashiemore was muted by GingaGreninja-Kun for 7 minutes. (sarcasm hurts me)
-[2014-02-22T21:20:22.401Z] (lobby) ashiemore was unmuted by Keldeo Wifi.
-[2014-02-22T21:20:34.165Z] (lobby) GingaGreninja-Kun was unlocked by Keldeo Wifi.
-[2014-02-22T21:21:26.963Z] (lobby) (GingaGreninja-Kun was demoted to Voice by Keldeo Wifi.)
-[2014-02-22T21:22:27.501Z] (lobby) GingaGreninja-Kun was promoted to Administrator by Keldeo Wifi.
-[2014-02-22T21:22:43.874Z] (lobby) (GingaGreninja-Kun was demoted to Leader by Keldeo Wifi.)
-[2014-02-22T21:24:15.086Z] (lobby) Keldeo Wifi set modchat to &
-[2014-02-22T21:24:30.890Z] (lobby) ashiemore was promoted to Voice by Keldeo Wifi.
-[2014-02-22T21:24:39.594Z] (lobby) ashiemore was promoted to Driver by Keldeo Wifi.
-[2014-02-22T21:24:46.938Z] (lobby) ashiemore was promoted to Moderator by Keldeo Wifi.
-[2014-02-22T21:25:20.635Z] (lobby) ashiemore was promoted to Leader by Keldeo Wifi.
-[2014-02-22T21:25:43.265Z] (lobby) MoxieInfinite was promoted to Voice by GingaGreninja-Kun.
-[2014-02-22T21:28:27.826Z] (lobby) Keldeo Wifi made this chat room official.
-[2014-02-22T21:28:56.374Z] (lobby) Keldeo Wifi made this chat room official.
-[2014-02-22T21:36:25.976Z] (lobby) Ashiemore declared <img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" /><img src="http://media.pldh.net/pokecons_action/479-wash.gif" alt="rotom-wash" />
-[2014-02-22T21:44:26.004Z] (lobby) Keldeo Wifi set modchat to false
-[2014-02-22T22:42:56.060Z] (lobby) Keldeo Wifi globally declared (chat level) FGTS
-[2014-02-22T22:45:25.575Z] (lobby) Ashiemore declared <img src="http://media.pldh.net/pokemon/gen5/blackwhite_animated_front/647.gif" alt="keldeo" />
-[2014-02-22T22:46:10.245Z] (lobby) Keldeo Wifi globally declared (chat level) I AM A FGT I AM A FGT THIS IS ASHIEMORE SPEAKING
-[2014-02-22T22:46:33.981Z] (lobby) Ashiemore declared I AM A FGT I AM A FGT THIS IS KELDEO WIFI SPEAKING
-[2014-02-22T22:54:33.866Z] (lobby) Keldeo Wifi globally declared (chat level) CHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEESE-ITSSSSS
-[2014-02-22T22:57:44.742Z] (lobby) Ashiemore declared <img src="http://media.pldh.net/pokemon/ken_sugimori/update_bw/647.png" alt="keldeo" />
-[2014-02-22T23:03:36.140Z] (lobby) (Oiawesome@Gym was demoted to Leader by Keldeo Wifi.)
-[2014-02-22T23:08:30.731Z] (lobby) Ashiemore declared <img src="http://media.pldh.net/pokemon/gen5/blackwhite_animated_front/493.gif" alt="arceus" />
-[2014-02-22T23:13:02.949Z] (lobby) Keldeo Wifi globally declared (chat level) :D :D :D :D :D :D
-[2014-02-22T23:13:23.371Z] (lobby) Oiawesome@Gym was promoted to Administrator by Keldeo Wifi.
-[2014-02-22T23:13:40.468Z] (lobby) (Oiawesome@Gym was forcibly renamed to Oiawesome by Oiawesome@Gym.)
-[2014-02-22T23:23:14.889Z] (lobby) gingagreninja-kun was unbanned by Oiawesome.
-[2014-02-22T23:44:18.021Z] (lobby) Ashiemore declared SWAG
-[2014-02-22T23:51:02.463Z] (lobby) jd was locked from talking by Ashiemore.
-[2014-02-22T23:51:09.213Z] (lobby) jd was unlocked by Ashiemore.
-[2014-02-23T00:21:05.087Z] (lobby) MoxieInfinite was promoted to Driver by Ashiemore.
-[2014-02-23T00:21:13.593Z] (lobby) (MoxieInfinite was demoted to Voice by Ashiemore.)
-[2014-02-23T00:30:13.267Z] (lobby) SomeKiwi was promoted to Voice by CaterpieFlow.
-[2014-02-23T00:30:17.077Z] (lobby) SomeKiwi was promoted to Driver by CaterpieFlow.
-[2014-02-23T00:30:21.671Z] (lobby) SomeKiwi was promoted to Moderator by CaterpieFlow.
-[2014-02-23T00:31:07.679Z] (lobby) SomeKiwi was promoted to Leader by CaterpieFlow.
-[2014-02-23T00:31:13.689Z] (lobby) SomeKiwi was promoted to Administrator by CaterpieFlow.
-[2014-02-23T00:39:01.467Z] (lobby) Psychic Sabrina was promoted to Voice by CaterpieFlow.
-[2014-02-23T00:39:06.789Z] (lobby) Psychic Sabrina was promoted to Driver by CaterpieFlow.
-[2014-02-23T00:39:13.074Z] (lobby) Psychic Sabrina was promoted to Moderator by CaterpieFlow.
-[2014-02-23T00:42:36.027Z] (lobby) (SomeKiwi was demoted to Leader by CaterpieFlow.)
-[2014-02-23T00:43:33.710Z] (lobby) SomeKiwi was promoted to Administrator by CaterpieFlow.
-[2014-02-23T00:46:36.239Z] (lobby) (Psychic Sabrina was demoted to Driver by SomeKiwi.)
-[2014-02-23T00:46:48.074Z] (lobby) (Psychic Sabrina was demoted to Voice by SomeKiwi.)
-[2014-02-23T00:47:04.809Z] (lobby) (Psychic Sabrina was demoted to a regular user by SomeKiwi.)
-[2014-02-23T00:47:16.552Z] (lobby) DomTheXMasDonkey was promoted to Voice by CaterpieFlow.
-[2014-02-23T00:47:31.645Z] (lobby) DomTheXMasDonkey was promoted to Driver by CaterpieFlow.
-[2014-02-23T00:47:33.270Z] (lobby) (MoxieInfinite was demoted to a regular user by SomeKiwi.)
-[2014-02-23T00:47:42.558Z] (lobby) DomTheXMasDonkey was promoted to Moderator by CaterpieFlow.
-[2014-02-23T00:50:00.860Z] (lobby) (Cynthia was demoted to Driver by SomeKiwi.)
-[2014-02-23T00:50:08.328Z] (lobby) (Cynthia was demoted to Voice by SomeKiwi.)
-[2014-02-23T00:59:54.075Z] (lobby) Melee Mewtwo was promoted to Moderator by SomeKiwi.
-[2014-02-23T01:06:55.411Z] (lobby) Melee Mewtwo was promoted to Leader by CaterpieFlow.
-[2014-02-23T01:07:25.199Z] (lobby) (Oiawesome was forcibly renamed to Oiawesome eating :c by Oiawesome.)
-[2014-02-23T01:08:36.010Z] (lobby) (SomeKiwi was forced to choose a new name by CaterpieFlow: Kiwi)
-[2014-02-23T01:09:43.967Z] (lobby) SuperSableye625 was promoted to Administrator by SomeKiwi.
-[2014-02-23T01:10:04.888Z] (lobby) (SuperSableye625 was demoted to Leader by SomeKiwi.)
-[2014-02-23T01:10:42.265Z] (lobby) (SuperSableye625 was demoted to Voice by SomeKiwi.)
-[2014-02-23T01:10:44.511Z] (lobby) (Oiawesome eating :c was forcibly renamed to Oiawesome by Oiawesome eating :c.)
-[2014-02-23T01:11:14.373Z] (lobby) SuperSableye625 was promoted to Leader by SomeKiwi.
-[2014-02-23T01:11:23.097Z] (lobby) (SomeKiwi was forcibly renamed to Kiwi by Oiawesome.)
-[2014-02-23T01:12:16.471Z] (lobby) (SuperSableye625 was demoted to Voice by CaterpieFlow.)
-[2014-02-23T01:12:31.586Z] (lobby) (SuperSableye625 was demoted to a regular user by Kiwi.)
-[2014-02-23T01:12:31.881Z] (lobby) SuperSableye625 was promoted to a regular user by CaterpieFlow.
-[2014-02-23T01:12:52.140Z] (lobby) faint was promoted to Leader by Kiwi.
-[2014-02-23T01:15:26.663Z] (lobby) (CaterpieFlow was demoted to Leader by SomeKiwi.)
-[2014-02-23T01:15:43.454Z] (lobby) CaterpieFlow was promoted to Administrator by SomeKiwi.
-[2014-02-23T01:16:00.860Z] (lobby) (Oiawesome was demoted to Leader by SomeKiwi.)
-[2014-02-23T01:16:15.669Z] (lobby) Oiawesome was promoted to Administrator by SomeKiwi.
-[2014-02-23T01:18:37.896Z] (lobby) (SomeKiwi was demoted to Leader by SomeKiwi.)
-[2014-02-23T01:20:03.120Z] (lobby) SomeKiwi was promoted to Administrator by CaterpieFlow.
-[2014-02-23T01:20:32.488Z] (lobby) Oiawesome was promoted to Oiawesome by Oiawesome.
-[2014-02-23T01:21:03.882Z] (lobby) Oiawesome declared I still am god btw
-[2014-02-23T01:22:02.468Z] (lobby) Melee Mewtwo was promoted to Administrator by Oiawesome.
-[2014-02-23T01:22:55.388Z] (lobby) (Cynthia was demoted to a regular user by SomeKiwi.)
-[2014-02-23T01:23:11.114Z] (lobby) Cynthia was promoted to Driver by SomeKiwi.
-[2014-02-23T01:24:39.311Z] (lobby) (Oiawesome was demoted to Administrator by Oiawesome.)
-[2014-02-23T01:24:58.576Z] (lobby) Oiawesome was promoted to Oiawesome by Oiawesome.
-[2014-02-23T01:25:13.420Z] (lobby) SomeKiwi was promoted to Oiawesome by SomeKiwi.
-[2014-02-23T01:25:40.563Z] (lobby) CaterpieFlow was promoted to Oiawesome by SomeKiwi.
-[2014-02-23T01:28:34.247Z] (lobby) CaterpieFlow was warned by Cynthia. (testing)
-[2014-02-23T01:29:58.697Z] (lobby) SomeKiwi was warned by Cynthia. (I shouldn't be able to do this.)
-[2014-02-23T01:30:49.432Z] (lobby) CaterpieFlow was promoted to Oiawesome by Melee Mewtwo.
-[2014-02-23T01:30:51.647Z] (lobby) CaterpieFlow was promoted to Oiawesome by Melee Mewtwo.
-[2014-02-23T01:30:54.352Z] (lobby) CaterpieFlow was promoted to Oiawesome by Melee Mewtwo.
-[2014-02-23T01:31:07.146Z] (lobby) (CaterpieFlow was demoted to Administrator by Melee Mewtwo.)
-[2014-02-23T01:31:18.386Z] (lobby) (Oiawesome was demoted to Administrator by Melee Mewtwo.)
-[2014-02-23T01:31:23.332Z] (lobby) (SomeKiwi was demoted to Administrator by CaterpieFlow.)
-[2014-02-23T01:31:23.858Z] (lobby) (SomeKiwi was demoted to Leader by Melee Mewtwo.)
-[2014-02-23T01:31:42.275Z] (lobby) SomeKiwi was promoted to Administrator by Melee Mewtwo.
-[2014-02-23T01:32:06.022Z] (lobby) Oiawesome was promoted to Mega Admin by Oiawesome.
-[2014-02-23T01:32:22.490Z] (lobby) SomeKiwi was promoted to Mega Admin by SomeKiwi.
-[2014-02-23T01:32:29.425Z] (lobby) (SomeKiwi was demoted to Administrator by Oiawesome.)
-[2014-02-23T01:32:57.220Z] (lobby) Oiawesome declared test
-[2014-02-23T01:33:02.066Z] (lobby) (Oiawesome was demoted to Voice by SomeKiwi.)
-[2014-02-23T01:33:19.217Z] (lobby) Oiawesome was promoted to Driver by SomeKiwi.
-[2014-02-23T01:33:31.040Z] (lobby) Oiawesome was promoted to Moderator by SomeKiwi.
-[2014-02-23T01:34:06.050Z] (lobby) Oiawesome was promoted to Administrator by CaterpieFlow.
-[2014-02-23T01:34:18.061Z] (lobby) Oiawesome declared the reason it errored before is because I was in the middle of making oiawesome rank into mega admin but there were still some oiawesome rank users so the server made them a rank that technically didn't exist thus fuckign them up
-[2014-02-23T01:34:27.274Z] (lobby) Oiawesome was promoted to Mega Admin by Oiawesome.
-[2014-02-23T01:37:34.167Z] (lobby) CaterpieFlow was warned by SomeKiwi. (no)
-[2014-02-23T01:38:01.426Z] (lobby) (SomeKiwi was demoted to Leader by CaterpieFlow.)
-[2014-02-23T01:38:05.930Z] (lobby) caterpie frow was warned by SomeKiwi. (no)
-[2014-02-23T01:38:11.414Z] (lobby) SomeKiwi was promoted to Administrator by CaterpieFlow.
-[2014-02-23T01:38:28.370Z] (lobby) Oiawesome declared (Melee)Mewtwo is Mega evolving!
-[2014-02-23T01:38:58.447Z] (lobby) caterpie frow was muted by SomeKiwi for 7 minutes.
-[2014-02-23T01:39:05.449Z] (lobby) Oiawesome declared (Melee)Mewtwo is Mega evolving!
-[2014-02-23T01:39:08.376Z] (lobby) caterpie frow was unmuted by CaterpieFlow.
-[2014-02-23T01:39:30.362Z] (lobby) (Oiawesome was demoted to Administrator by Oiawesome.)
-[2014-02-23T01:39:41.230Z] (lobby) Oiawesome was promoted to Mega Admin by Oiawesome.
-[2014-02-23T01:39:43.830Z] (lobby) (Ashiemore was demoted to Voice by SomeKiwi.)
-[2014-02-23T01:39:50.353Z] (lobby) (Ashiemore was demoted to a regular user by SomeKiwi.)
-[2014-02-23T01:39:53.748Z] (lobby) Melee Mewtwo was promoted to Mega Admin by Oiawesome.
-[2014-02-23T01:39:54.250Z] (lobby) Oiawesome declared (Melee)Mewtwo is Mega evolving!
-[2014-02-23T01:40:02.567Z] (lobby) Ashiemore was promoted to Driver by CaterpieFlow.
-[2014-02-23T01:40:31.644Z] (lobby) (Melee Mewtwo was demoted to Administrator by Oiawesome.)
-[2014-02-23T01:40:42.345Z] (lobby) (Melee Mewtwo was demoted to Leader by Oiawesome.)
-[2014-02-23T01:40:56.558Z] (lobby) Melee Mewtwo was promoted to Administrator by Oiawesome.
-[2014-02-23T01:41:02.061Z] (lobby) CaterpieFlow declared http://1-media-cdn.foolz.us/ffuuka/board/vp/image/1365/83/1365835326388.png
-[2014-02-23T01:41:18.245Z] (lobby) Ashiemore was promoted to Moderator by CaterpieFlow.
-[2014-02-23T01:42:07.598Z] (lobby) CaterpieFlow declared <img src="http://1-media-cdn.foolz.us/ffuuka/board/vp/image/1365/83/1365835326388.png">
-[2014-02-23T01:44:38.944Z] (lobby) (SomeKiwi was demoted to Voice by SomeKiwi.)
-[2014-02-23T01:44:52.310Z] (lobby) CaterpieFlow declared <img src="http://www.onlyfoods.net/wp-content/uploads/2012/06/Kiwi-Fruit-Pictures.jpg">
-[2014-02-23T01:45:01.172Z] (lobby) SomeKiwi was promoted to Administrator by CaterpieFlow.
-[2014-02-23T01:46:51.208Z] (lobby) CaterpieFlow declared <img src="http://fc03.deviantart.net/fs71/f/2011/290/e/2/afro_caterpie_for_vanbruggen_by_daniellabelle-d4d52iz.jpg">
-[2014-02-23T01:48:30.018Z] (lobby) (Oiawesome was demoted to Administrator by Oiawesome.)
-[2014-02-23T01:50:55.187Z] (lobby) (SomeKiwi was demoted to Moderator by Oiawesome.)
-[2014-02-23T01:51:56.019Z] (lobby) caterpie frow was banned by CaterpieFlow. (47.54.251.232)
-[2014-02-23T01:51:56.021Z] (lobby) caterpie frow's alts were also banned: cordsprited
-[2014-02-23T01:52:14.531Z] (lobby) ashlemore was promoted to a regular user by Oiawesome.
-[2014-02-23T01:52:20.329Z] (lobby) ashlemore was promoted to a regular user by Oiawesome.
-[2014-02-23T01:52:22.370Z] (lobby) ashlemore was promoted to a regular user by Oiawesome.
-[2014-02-23T01:52:24.598Z] (lobby) caterpie frow was unbanned by CaterpieFlow.
-[2014-02-23T01:52:39.319Z] (lobby) (ashiemore was demoted to Driver by Oiawesome.)
-[2014-02-23T01:52:42.943Z] (lobby) (ashiemore was demoted to Voice by Oiawesome.)
-[2014-02-23T01:52:44.244Z] (lobby) (ashiemore was demoted to a regular user by Oiawesome.)
-[2014-02-23T01:52:50.160Z] (lobby) ashiemore was promoted to Moderator by CaterpieFlow.
-[2014-02-23T01:52:52.721Z] (lobby) (Cynthia was demoted to Voice by Oiawesome.)
-[2014-02-23T01:52:54.326Z] (lobby) (Cynthia was demoted to a regular user by Oiawesome.)
-[2014-02-23T01:53:15.419Z] (lobby) Cynthia was promoted to a regular user by Oiawesome.
-[2014-02-23T01:53:22.699Z] (lobby) (ashiemore was demoted to Driver by Oiawesome.)
-[2014-02-23T01:53:23.302Z] (lobby) (ashiemore was demoted to Voice by Oiawesome.)
-[2014-02-23T01:53:24.080Z] (lobby) (ashiemore was demoted to a regular user by Oiawesome.)
-[2014-02-23T01:53:28.951Z] (lobby) (DomTheXMasDonkey was demoted to Driver by Keldeo Wifi.)
-[2014-02-23T01:53:32.721Z] (lobby) domthexmasdonk was promoted to a regular user by Oiawesome.
-[2014-02-23T01:53:35.976Z] (lobby) cordsprited was unlocked by CaterpieFlow.
-[2014-02-23T01:53:45.910Z] (lobby) (DomTheXMasDonkey was demoted to Voice by Keldeo Wifi.)
-[2014-02-23T01:53:48.089Z] (lobby) somewiki was promoted to a regular user by Oiawesome.
-[2014-02-23T01:53:53.923Z] (lobby) (DomTheXMasDonkey was demoted to a regular user by Keldeo Wifi.)
-[2014-02-23T01:53:55.797Z] (lobby) (SomeKiwi was demoted to Driver by Oiawesome.)
-[2014-02-23T01:53:58.688Z] (lobby) (SomeKiwi was demoted to Voice by Oiawesome.)
-[2014-02-23T01:54:00.219Z] (lobby) (SomeKiwi was demoted to a regular user by Oiawesome.)
-[2014-02-23T02:15:14.655Z] (lobby) CaterpieFlow declared <img src="http://cdn.bulbagarden.net/upload/thumb/5/50/647Keldeo.png/250px-647Keldeo.png">
-[2014-02-23T02:27:11.460Z] (lobby) faint was promoted to Administrator by Keldeo Wifi.
-[2014-02-23T02:27:18.412Z] (lobby) meleemewtwo was promoted to Administrator by Keldeo Wifi.
-[2014-02-23T02:31:07.685Z] (lobby) CaterpieFlow was warned by Keldeo Wifi. (spam)
-[2014-02-23T02:33:54.214Z] (lobby) Psychic Sabrina was warned by CaterpieFlow.
-[2014-02-23T02:49:29.698Z] (lobby) Keldeo Wifi globally declared (chat level) WEEDLE IS A GOD
-[2014-02-23T02:50:07.296Z] (lobby) Keldeo Wifi globally declared (chat level) please try out some other rooms :D
-[2014-02-23T03:03:19.752Z] (lobby) Keldeo Wifi globally declared (chat level) please report to tournaments
-[2014-02-23T03:10:07.633Z] (lobby) CaterpieFlow was banned by Keldeo Wifi. (184.155.110.221)
-[2014-02-23T03:10:14.984Z] (lobby) caterpieflow was unbanned by Keldeo Wifi.
-[2014-02-23T03:10:31.798Z] (lobby) CaterpieFlow was unlocked by Keldeo Wifi.
-[2014-02-23T03:10:34.655Z] (lobby) (Keldeo Wifi was demoted to Leader by CaterpieFlow.)
-[2014-02-23T03:10:54.777Z] (lobby) (Keldeo Wifi was demoted to Driver by CaterpieFlow.)
-[2014-02-23T03:11:53.640Z] (lobby) (Keldeo Wifi was demoted to Voice by CaterpieFlow.)
-[2014-02-23T03:14:33.104Z] (lobby) Keldeo Wifi was promoted to Administrator by CaterpieFlow.
-[2014-02-23T03:16:19.197Z] (lobby) (Keldeo Wifi was demoted to Driver by CaterpieFlow.)
-[2014-02-23T03:19:36.968Z] (lobby) CaterpieFlow globally declared (chat level) <img src="http://i.imgur.com/zmihoTB.jpg">
-[2014-02-23T03:22:24.134Z] (lobby) Keldeo Wifi was promoted to Administrator by CaterpieFlow.
-[2014-02-23T03:22:27.259Z] (lobby) SomeKiwi was promoted to Driver by CaterpieFlow.
-[2014-02-23T03:28:37.629Z] (lobby) Cynthia was muted by SomeKiwi for 60 minutes.
-[2014-02-23T03:28:37.630Z] (lobby) Cynthia's alts were also muted: Psychic Sabrina
-[2014-02-23T03:28:48.610Z] (lobby) Cynthia was unmuted by SomeKiwi.
-[2014-02-23T03:28:52.175Z] (lobby) Cynthia was locked from talking by SomeKiwi.
-[2014-02-23T03:28:52.176Z] (lobby) Cynthia's alts were also locked: Psychic Sabrina
-[2014-02-23T03:28:56.152Z] (lobby) Psychic Sabrina was unmuted by CaterpieFlow.
-[2014-02-23T03:29:00.022Z] (lobby) Cynthia was unlocked by CaterpieFlow.
-[2014-02-23T03:32:18.549Z] (lobby) Keldeo Wifi set modchat to ~
-[2014-02-23T03:32:24.669Z] (lobby) Keldeo Wifi set modchat to false
-[2014-02-23T03:32:49.390Z] (lobby) CaterpieFlow was muted by CaterpieFlow for 7 minutes.
-[2014-02-23T03:33:08.955Z] (lobby) CaterpieFlow was unmuted by CaterpieFlow.
-[2014-02-23T03:35:33.191Z] (lobby) DomTheXMasDonkey was warned by SomeKiwi. (No Plz.)
-[2014-02-23T03:37:02.821Z] (lobby) CaterpieFlow globally declared (chat level) <img src="http://p.twimg.com/AyMCrrNCAAAYr1x.jpg:large">
-[2014-02-23T03:49:35.264Z] (lobby) ashiemore was warned by SomeKiwi. (Change the name to "Ashiemoar" plz?)
-[2014-02-23T03:49:35.275Z] (lobby) Psychic Sabrina was unlocked by CaterpieFlow.
-[2014-02-23T03:49:50.738Z] (lobby) SomeKiwi was warned by CaterpieFlow. (abuse)
-[2014-02-23T03:52:25.342Z] (lobby) CaterpieFlow globally declared (chat level) <img src="http://img-cache.cdn.gaiaonline.com/bae6bd9fdb4168ca64646bdd9b13e174/http://i522.photobucket.com/albums/w348/Richtoon18/Pokemon-Gif.gif">
-[2014-02-23T04:07:15.549Z] (lobby) "~✨keldeo wifi✨~" globally declared (chat level) cheese-its tase good
-[2014-02-23T04:08:27.467Z] (lobby) "~✨keldeo wifi✨~" globally declared (chat level) all ~ meet in the staff room
-[2014-02-23T04:12:59.976Z] (lobby) (Oiawesome was forcibly renamed to Oiawesome-Afk-BBt by Oiawesome.)
-[2014-02-23T04:13:21.204Z] (lobby) Oiawesome-Afk-BBt declared BBT = Watching the hit comedy show 'The Big Bang Theory'
-[2014-02-23T08:44:54.398Z] (lobby) RhiscQuinn was promoted to Administrator by CaterpieFlow.
-[2014-02-23T08:45:09.656Z] (lobby) (RhiscQuinn was demoted to Driver by CaterpieFlow.)
-[2014-02-23T08:45:47.572Z] (lobby) RhiscQuinn was promoted to Moderator by CaterpieFlow.
-[2014-02-23T08:50:07.173Z] (lobby) RhiscQuinn was promoted to Leader by CaterpieFlow.
-[2014-02-23T14:23:52.819Z] (lobby) Keldeo Wifi set modchat to ~
-[2014-02-23T14:24:27.231Z] (lobby) Keldeo Wifi globally declared (chat level) in order to promote other room activity, try out other rooms
-[2014-02-23T16:48:36.236Z] (lobby) Oiawesome set modchat to false
-[2014-02-23T17:23:38.022Z] (lobby) Keldeo Wifi made this chat room official.
-[2014-02-23T17:25:00.910Z] (lobby) Keldeo Wifi made this chat room official.
-[2014-02-23T17:25:21.677Z] (lobby) Keldeo Wifi made this chat room official.
-[2014-02-23T17:25:49.369Z] (lobby) Keldeo Wifi made this chat room official.
-[2014-02-23T17:26:03.446Z] (lobby) Keldeo Wifi made this chat room official.
-[2014-02-23T17:28:13.254Z] (lobby) Keldeo Wifi made this chat room official.
-[2014-02-23T17:28:35.765Z] (lobby) Keldeo Wifi made this chat room official.
-[2014-02-23T17:31:31.869Z] (lobby) ashiemore was promoted to Voice by Keldeo Wifi.
-[2014-02-23T17:31:56.150Z] (lobby) (Oiawesome was forcibly renamed to Oiuawesome AFK by Oiawesome.)
-[2014-02-23T17:32:39.946Z] (lobby) (Oiuawesome AFK was forcibly renamed to Oiawesome AFK by Oiuawesome AFK.)
-[2014-02-23T17:38:29.720Z] (lobby) Keldeo Wifi set modchat to +
-[2014-02-23T18:17:02.300Z] (lobby) ashiemore was muted by SomeKiwi for 7 minutes.
-[2014-02-23T18:17:07.349Z] (lobby) ashiemore was unmuted by SomeKiwi.
-[2014-02-23T18:22:36.151Z] (lobby) (Oiawesome AFK was forcibly renamed to Oiawesome by Oiawesome AFK.)
-[2014-02-23T18:43:45.887Z] (lobby) Keldeo Wifi declared I miss my admin
-[2014-02-23T18:56:19.293Z] (lobby) Keldeo Wifi declared DEAD SIMULATOR
-[2014-02-23T18:59:50.655Z] (lobby) Keldeo Wifi set modchat to false
-[2014-02-23T19:02:57.179Z] (lobby) SomeKiwi was promoted to Moderator by Keldeo Wifi.
-[2014-02-23T19:06:00.937Z] (lobby) Keldeo Wifi set modchat to &
-[2014-02-23T19:06:06.622Z] (lobby) Oiawesome set modchat to false
-[2014-02-23T19:06:09.341Z] (lobby) Keldeo Wifi set modchat to false
-[2014-02-23T19:06:09.747Z] (lobby) SomeKiwi set modchat to +
-[2014-02-23T19:06:15.724Z] (lobby) Oiawesome set modchat to false
-[2014-02-23T19:06:42.179Z] (lobby) Keldeo Wifi was promoted to Administrator by Oiawesome.
-[2014-02-23T19:07:30.801Z] (lobby) SomeKiwi set modchat to +
-[2014-02-23T19:07:39.037Z] (lobby) SomeKiwi set modchat to autoconfirmed
-[2014-02-23T19:11:20.987Z] (lobby) Keldeo Wifi set modchat to autoconfirmed
-[2014-02-23T19:25:58.981Z] (lobby) (Oiawesome was forcibly renamed to OiawesomeAFK by Oiawesome.)
-[2014-02-23T19:35:12.271Z] (lobby) (OiawesomeAFK was forcibly renamed to Oiawesome by OiawesomeAFK.)
-[2014-02-23T19:47:58.812Z] (lobby) Keldeo Wifi set modchat to false
-[2014-02-23T20:07:43.801Z] (lobby) Keldeo Wifi set modchat to @
-[2014-02-23T20:12:26.913Z] (lobby) Keldeo Wifi set modchat to %
-[2014-02-23T20:15:46.702Z] (lobby) Keldeo Wifi set modchat to false
-[2014-02-23T20:32:50.714Z] (lobby) SomeKiwi set modchat to +
-[2014-02-23T20:40:11.374Z] (lobby) Oiawesome set modchat to false
-[2014-02-23T20:40:33.079Z] (lobby) Keldeo Wifi globally declared (chat level) LF; a gen 4 wifi battle meet me in the gen 4 room
-[2014-02-23T20:41:00.029Z] (lobby) (Keldeo Wifi was demoted to Moderator by Oiawesome.)
-[2014-02-23T20:41:09.658Z] (lobby) (CaterpieFlow was demoted to Moderator by Oiawesome.)
-[2014-02-23T20:41:13.849Z] (lobby) (CaterpieFlow was demoted to Driver by Oiawesome.)
-[2014-02-23T20:41:17.169Z] (lobby) (Keldeo Wifi was demoted to Driver by Oiawesome.)
-[2014-02-23T22:01:19.404Z] (lobby) (Oiawesome was forcibly renamed to OiawesomeAFK by Oiawesome.)
-[2014-02-23T22:36:02.491Z] (lobby) (OiawesomeAFK was forcibly renamed to Oiawesome by OiawesomeAFK.)
-[2014-03-01T06:44:24.615Z] (lobby) (Oiawesome was forcibly renamed to OiawesomeAFK by Oiawesome.)
-[2014-03-01T16:42:19.723Z] (lobby) (OiawesomeAFK was forcibly renamed to Oiawesome by OiawesomeAFK.)
-[2014-03-01T17:25:14.616Z] (lobby) (Oiawesome was demoted to AOp by Oiawesome.)
-[2014-03-01T17:26:37.325Z] (lobby) Oiawesome was promoted to Mega AOp by Oiawesome.
-[2014-03-01T17:26:53.595Z] (lobby) MoxieInfinite was promoted to VOp by Oiawesome.
-[2014-03-01T17:29:07.462Z] (lobby) (Oiawesome was demoted to AOp by Oiawesome.)
-[2014-03-01T17:29:15.370Z] (lobby) Oiawesome was given Mega AOp by Oiawesome.
-[2014-03-01T19:19:22.747Z] (lobby) (Oiawesome was forcibly renamed to OiAFKsome by Oiawesome.)
-[2014-03-01T19:27:08.797Z] (lobby) (OiAFKsome was forcibly renamed to Oiawesome by OiAFKsome.)
-[2014-03-01T19:59:34.948Z] (lobby) (Oiawesome was forcibly renamed to OiawesomeAFK by Oiawesome.)
-[2014-03-01T22:45:37.430Z] (lobby) (OiawesomeAFK was forcibly renamed to Oiawesome by OiawesomeAFK.)
-[2014-03-02T01:25:42.057Z] (lobby) Oiawesome was given Mega AOp by Oiawesome.
-[2014-03-02T02:27:53.105Z] (lobby) (Oiawesome was forcibly renamed to OiawesomeAFK by Oiawesome.)
-[2014-03-02T02:30:21.553Z] (lobby) (OiawesomeAFK was forcibly renamed to Oiawesome by OiawesomeAFK.)
-[2014-03-02T14:57:59.353Z] (lobby) MoxieInfinite was muted by Keldeo Wifi ✿ for 7 minutes.
-[2014-03-02T14:58:20.502Z] (lobby) MoxieInfinite was unmuted by Keldeo Wifi ✿.
-[2014-03-02T16:09:59.760Z] (lobby) (MoxieInfinite was demoted to a regular user by SomeKiwi.)
-[2014-03-02T16:13:59.004Z] (lobby) MoxieInfinite was given VOp by Oiawesome.
-[2014-03-02T16:15:20.849Z] (lobby) (Oiawesome was demoted to AOp by Oiawesome.)
-[2014-03-02T16:16:25.700Z] (lobby) Oiawesome was given Mega AOp by Oiawesome.
-[2014-03-02T16:47:47.509Z] (lobby) (SomeKiwi was demoted to VOp by Oiawesome.)
-[2014-03-02T16:47:50.375Z] (lobby) (SomeKiwi was demoted to a regular user by Oiawesome.)
-[2014-03-02T16:47:59.447Z] (lobby) (Ashiemore was demoted to a regular user by Oiawesome.)
-[2014-03-02T16:48:06.550Z] (lobby) (KELDEO~WIFI# was demoted to VOp by Oiawesome.)
-[2014-03-02T16:48:07.839Z] (lobby) (KELDEO~WIFI# was demoted to a regular user by Oiawesome.)
-[2014-03-08T09:49:45.974Z] (lobby) (Oiawesome was forcibly renamed to Oiawesome Sleeping by Oiawesome.)
-[2014-03-08T22:19:33.783Z] (lobby) (Oiawesome Sleeping was forcibly renamed to Oiawesome by Oiawesome Sleeping.)
-[2014-03-09T01:23:00.909Z] (lobby) OiawesomeDG was given AOp by Oiawesome.
-[2014-03-09T02:44:27.181Z] (lobby) (Oiawesome was forcibly renamed to Oiawesome/Eating/Away by OiawesomeDG.)
-[2014-03-09T02:44:34.051Z] (lobby) (OiawesomeDG was forcibly renamed to OiawesomeDG/Eating/Away by OiawesomeDG.)
-[2014-03-09T03:17:44.039Z] (lobby) (OiawesomeDG/Eating/Away was forcibly renamed to OiawesomeDG by OiawesomeDG/Eating/Away.)
-[2014-03-09T03:17:48.965Z] (lobby) (Oiawesome/Eating/Away was forcibly renamed to Oiawesome by OiawesomeDG.)
-[2014-03-09T03:20:20.634Z] (lobby) (Oiawesome was forcibly renamed to Oiawesome/Futurama/Away by OiawesomeDG.)
-[2014-03-09T03:20:27.629Z] (lobby) (OiawesomeDG was forcibly renamed to OiawesomeDG/Futurama/Away by OiawesomeDG.)
-[2014-03-09T04:08:13.491Z] (lobby) (OiawesomeDG/Futurama/Away was forcibly renamed to OiawesomeDG by OiawesomeDG/Futurama/Away.)
-[2014-03-09T04:08:15.060Z] (lobby) (Oiawesome/Futurama/Away was forcibly renamed to Oiawesome by OiawesomeDG.)
-[2014-03-09T05:40:09.027Z] (lobby) (Oiawesome was forcibly renamed to Oiawesome AFK by OiawesomeDG.)
-[2014-03-09T05:40:15.640Z] (lobby) (OiawesomeDG was forcibly renamed to OiawesomeDG AFK by OiawesomeDG.)
-[2014-03-09T14:39:32.800Z] (lobby) (OiawesomeDG AFK was forcibly renamed to OiawesomeDG by OiawesomeDG AFK.)
-[2014-03-09T14:39:36.419Z] (lobby) (Oiawesome AFK was forcibly renamed to Oiawesome by OiawesomeDG.)
-[2014-03-09T18:10:38.541Z] (lobby) adrian marin bh was given VOp by Oiawesome.
-[2014-04-06T19:00:11.510Z] (lobby) (Oiawesome was forcibly renamed to Oiasleep by Oiawesome.)
-[2014-04-07T12:58:12.440Z] (lobby) (Oiasleep was forcibly renamed to Oiawesome by Oiasleep.)
+[2014-04-25T17:52:52.898Z] (lobby) DreMZ was promoted to Leader by Oiawesome.
+[2014-04-25T17:53:18.092Z] (lobby) Adrian Marin BH was promoted to Leader by Oiawesome.
+[2014-04-25T19:57:11.357Z] (lobby) Keep it Playful was promoted to Moderator by Oiawesome.
+[2014-04-25T21:12:37.883Z] (lobby) simsims2800 was promoted to Voice by Oiawesome.
+[2014-04-25T21:12:38.702Z] (lobby) simsims2800 was promoted to Driver by Adrian Marin BH.
+[2014-04-25T21:12:45.662Z] (lobby) (simsims2800 was demoted to Voice by Oiawesome.)
+[2014-04-26T16:03:32.865Z] (lobby) Jaguar360 was promoted to Voice by Oiawesome.
+[2014-04-26T17:02:14.446Z] (lobby) Arhops was promoted to Voice by Oiawesome.
+[2014-04-27T12:35:33.074Z] (lobby) SpartanMalice was promoted to Driver by Oiawesome.
+[2014-04-27T15:36:18.929Z] (lobby) Leafshield was promoted to Administrator by Oiawesome.
+[2014-04-27T18:00:42.091Z] (lobby) Asterat was promoted to Driver by Oiawesome.
+[2014-04-27T18:25:39.355Z] (lobby) Asterat was muted by Oiawesome for 7 minutes.
+[2014-04-27T18:25:43.914Z] (lobby) Asterat was unmuted by Oiawesome.
+[2014-04-27T18:27:41.840Z] (lobby) Asterat was muted by Oiawesome for 7 minutes. (WHERE IS BOTTT WHEN YOU NEED HIM FUCK)
+[2014-04-27T18:27:47.309Z] (lobby) Asterat was unmuted by Oiawesome.
+[2014-04-27T18:53:04.585Z] (lobby) Asterat was warned by adrian marin bh. (stretching)
+[2014-04-27T19:29:59.829Z] (lobby) OiawesomeAFK was promoted to Administrator by Oiawesome.
+[2014-04-27T20:29:42.487Z] (lobby) Arhops was muted by Asterat for 7 minutes.
+[2014-04-27T20:29:58.967Z] (lobby) Arhops was unmuted by Keep it Playful.
+[2014-04-27T20:32:17.544Z] (lobby) (Arhops was forced to choose a new name by adrian marin bh: Archeops)
+[2014-05-03T19:23:07.060Z] (lobby) Arhops was promoted to Moderator by Oiawesome.
+[2014-05-03T19:23:12.970Z] (lobby) Jaguar360 was promoted to Driver by Oiawesome.
+[2014-05-04T15:45:02.319Z] (lobby) Piexplode was promoted to Voice by Oiawesome.
+[2014-07-15T16:11:40.376Z] (lobby) EeveeGeneral was promoted to Voice by Oiawesome.
+[2014-07-15T16:11:43.920Z] (lobby) EeveeGeneral was promoted to Moderator by Oiawesome.
+[2014-07-17T16:31:31.355Z] (lobby) OM Central Bot was promoted to Administrator by Monte Crist0.
+[2014-07-18T17:56:47.488Z] (lobby) Corporal Levi was banned by MonteCrist0. (216.191.231.234)
+[2014-07-18T17:56:52.920Z] (lobby) corporallevi was unbanned by MonteCrist0.
+[2014-07-18T17:56:58.136Z] (lobby) Corporal Levi was unlocked by MonteCrist0.
+[2014-07-18T19:03:32.396Z] (lobby) Kl4ng was promoted to Voice by MonteCrist0.
+[2014-07-18T19:03:37.102Z] (lobby) Peef Rimgarr was promoted to Voice by MonteCrist0.
+[2014-07-18T19:03:44.522Z] (lobby) manu 11 was promoted to Voice by MonteCrist0.
+[2014-07-18T19:05:20.622Z] (lobby) Uselesscrab was promoted to Voice by MonteCrist0.
+[2014-07-24T18:19:42.938Z] (lobby) Arhops was promoted to Voice by MonteCrist0.
+[2014-08-18T16:12:35.192Z] (lobby) super sonic x was banned by MonteCrist0. (warned beforehand, still continued to advertise to try and get admin) (186.45.116.93)
+[2014-08-19T13:32:22.845Z] (lobby) god charsatares was banned by MonteCrist0. (74.88.1.127)
+[2014-08-19T13:32:30.404Z] (lobby) MonteCrist0 set modchat to ~
+[2014-08-19T15:30:25.228Z] (lobby) MonteCrist0 set modchat to false
